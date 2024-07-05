@@ -1,0 +1,120 @@
+--<Help>--
+
+git <onderdeel> --help
+
+--<Configuration>--
+
+git config --global user.name "Name"
+git config --global user.email "E-mail"
+
+git config --list
+
+==========================================================================================================================================
+
+--<Initialize a repository from existing code>--
+
+1. Firs go to directory (cd...enz.)
+
+2. List files (ls -la)
+
+git init
+
+--<Stop tracking with git>--
+
+rm -rf .git
+
+--<See status>--
+
+git status
+
+--<Make gitignore file>--
+
+touch .gitignore
+
+This creates a text file (.gitignore.txt) where you can list all the files wich should be ignored. 
+Make sure to use filename + extension. (filename.ext)
+To ignore a folder: add the folder_name/ (fw slash) to the file.
+
+==========================================================================================================================================
+
+--<Add file to the staging area>--
+
+git add filename.ext
+
+--<Add all files to the staging area>-- 
+
+git add -A
+
+--<Remove a file from staging area>--
+
+git reset filename.ext
+
+--<Remove all files from staging area>--
+
+git reset
+
+==========================================================================================================================================
+
+--<Commit files>--
+
+git commit -m "text with detail changes comes here"
+
+--<View log>--
+
+git log
+
+==========================================================================================================================================
+
+--<Upload files to Github>--
+
+make repo in Gitub and copy link
+
+git remote add origin https://github.com/SietseAndringa/Winc_React_Basics_Project.git
+
+git push -u origin master
+
+==========================================================================================================================================
+
+--<Cloning a remote repo>--
+
+1. first go to directory where you want the repo to go (cd)
+
+2. git clone https://github.com/SietseAndringa/html_css_refresher.git 
+
+This will make a new folder in which all files of the repo will get copied. This folder will be tracked by git. (so no git init necessary)
+
+--<View info on repo>--
+
+git remote -v
+git branch -a
+
+--<switch to main repo>--
+
+git checkout main
+
+--<View changes in repo>--
+
+git status
+git diff
+
+--<push and pull to repo>--
+
+git pull <branch>
+git push <branch>
+
+--<create a new branch>--
+
+git checkout -b <branch-name-here>
+
+--<push branch to repo>--
+
+git push origin <branch-name-here>
+
+
+
+
+
+
+
+
+
