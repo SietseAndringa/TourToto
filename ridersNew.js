@@ -3,7 +3,7 @@ const riders = [
     id: 1,
     name: " VINGEGAARD Jonas",
     team: "Team Visma | Lease a Bike",
-    inCourse: false,
+    inCourse: true,
   },
   {
     id: 2,
