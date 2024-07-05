@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script
+      type="module"
+      src="https://cdn.jsdelivr.net/npm/sweetalert2@11"
+    ></script>
+    <title>Tourtoto lijstje maker</title>
+    <link rel="stylesheet" href="style.css" />
+    <script defer src="ridersNew.js"></script>
+    <script defer src="script2.js"></script>
+  </head>
+  <body>
+    <!-- Modal -->
+    <section class="modal hidden">
+      <h1 id="modal-header"></h1>
+      <p id="modal-text"></p>
+
+      <button id="modal-button" class="button-green">Doorgaan</button>
+    </section>
+
+    <div class="overlay hidden"></div>
+
+    <section class="final-modal hidden">
+      <h1>Wil je de lijst insturen?</h1>
+      <div class="flex-row">
+        <button id="final-modal-button-cancel" class="button-red">
+          Annuleren
+        </button>
+        <button id="final-modal-button-confirm" class="button-green">
+          Lijst insturen!
+        </button>
+      </div>
+    </section>
+
+    <div class="final-overlay hidden"></div>
+
+    <!-- Gegevens -->
+
+    <section class="input-container">
+      <h1 class="margin-bottom margin-top">
+        Voer je contactgegevens in en druk op "volgende"
+      </h1>
+      <form id="form">
+        <input
+          class="input"
+          type="text"
+          id="name"
+          required
+          placeholder="Voor- en achternaam"
+        />
+        <input
+          type="text"
+          class="input"
+          id="city"
+          required
+          placeholder="Woonplaats"
+        />
+        <input
+          type="email"
+          class="input"
+          id="mail"
+          required
+          placeholder="Email adres"
+        />
+        <input
+          class="input"
+          type="tel"
+          id="phone"
+          placeholder="Telefoonnr. (optioneel, als je in de appgroep wilt)"
+        />
+        <input
+          id="next-button-one"
+          type="submit"
+          form="form"
+          class="submit-button button-green margin-top"
+          value="Volgende"
+        />
+      </form>
+    </section>
+
+    <!-- Kieslijst -->
+
+    <main class="main">
+      <section
+        id="rider-list-container"
+        class="hidden list-container margin-top"
+      >
+        <h2>Kies een renner uit deze lijst:</h2>
+        <input
+          type="text"
+          class="search"
+          name="search"
+          id="search"
+          placeholder="Zoek op naam"
+        />
+        <ul id="rider-list" class="rider-list"></ul>
+      </section>
+
+      <!-- Gekozen eindwinnaars -->
+
+      <section
+        id="winners-container"
+        class="hidden winners-container margin-top"
+      >
+        <h1 class="yellow" id="winners-heading">
+          Wie gaat de GELE TRUI winnen?
+        </h1>
+        <h2 id="yellow-heading"></h2>
+        <div class="yellow" id="yellow"></div>
+        <h2 id="green-heading"></h2>
+        <div class="green" id="green"></div>
+        <h2 id="polka-heading"></h2>
+        <div class="polka" id="polka"></div>
+        <div id="winners-button-container" class="button-container hidden">
+          <button class="button-red margin-top" id="reset-button-winners">
+            Kies opnieuw
+          </button>
+          <button
+            class="submit-button button-green margin-top"
+            id="next-button-two"
+          >
+            Bevestig keuzes
+          </button>
+        </div>
+      </section>
+
+      <!-- Gekozen renners -->
+
+      <section id="selected-container" class="selected-container hidden">
+        <h1 class="margin-top underline">Gekozen renners:</h1>
+        <h2 id="rider-count"></h2>
+        <div class="ul-container-one">
+          <ul id="selected-riders"></ul>
+        </div>
+
+        <button id="delete-button" class="padding-small">
+          Verwijder laatste
+        </button>
+
+        <h1 class="margin-top underline">Reserve:</h1>
+        <h2 id="reserve-count"></h2>
+        <div class="ul-container-two">
+          <ul id="reserve-riders"></ul>
+        </div>
+        <div class="button-container">
+          <button
+            id="delete-reserve-button"
+            class="padding-small margin-bottom"
+          >
+            Verwijder reserve
+          </button>
+          <button
+            id="reset-button"
+            class="button-red padding-small margin-bottom"
+          >
+            Lijst leegmaken
+          </button>
+        </div>
+        <button
+          id="submit-button"
+          disabled
+          class="submit-button button-green margin-top"
+        >
+          Lijst insturen!
+        </button>
+      </section>
+    </main>
+  </body>
+</html>

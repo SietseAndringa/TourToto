@@ -1,0 +1,122 @@
+body {
+  background-image: url("https://assets-prd.ignimgs.com/2024/02/29/tour-de-france-2024-button-1709236174087.jpg");
+  background-size: contain;
+  background-color: rgba(255, 255, 255, 0.95);
+  background-blend-mode: lighten;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: smaller;
+}
+
+.main {
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  margin-bottom: 0;
+}
+
+.title-container img {
+  width: 15%;
+  height: 15%;
+}
+
+.title-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+button {
+  cursor: pointer;
+  padding: 20px;
+  font-weight: bold;
+  margin-top: 1rem;
+}
+
+.button-green {
+  background-color: lightgreen;
+}
+
+.button-gray {
+  background-color: lightsteelblue;
+}
+
+.button-yellow {
+  background-color: yellow;
+}
+
+.button-red {
+  background-color: tomato;
+}
+
+input {
+  width: 400px;
+  margin: 2px;
+}
+
+.space {
+  margin-bottom: 500px;
+}
+
+.hidden {
+  display: none;
+}
+
+.inline {
+  display: inline;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.two-columns {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.column-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.left,
+.right {
+  width: 40%;
+}
+.full-width {
+  width: 100%;
+}
+
+.betalen {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.betalen a {
+  display: block;
+  background-color: yellow;
+  padding: 1rem;
+  width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+}
+.betalen img {
+  margin-top: 1rem;
+  width: 50%;
+  height: 50%;
+}
+
+.riders-out {
+  background-color: rgb(255, 134, 113);
+  margin: 2px;
+}

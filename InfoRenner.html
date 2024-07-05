@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Wie welke renners</title>
+    <link rel="stylesheet" href="style.css" />
+    <script defer src="ridersNew.js"></script>
+    <script defer src="players.js"></script>
+    <script defer src="script3.js"></script>
+  </head>
+  <body>
+    <!-- Kieslijst -->
+    <a href="index.html"><button>Terug</button></a>
+
+    <main class="main">
+      <section id="rider-list-container" class="list-container margin-top">
+        <h2>Kies een renner uit de lijst:</h2>
+        <input
+          type="text"
+          class="search"
+          name="search"
+          id="search"
+          placeholder="Zoek op naam"
+        />
+        <ul id="rider-list" class="rider-list"></ul>
+      </section>
+      <section id="selected-container" class="selected-container">
+        <h1 class="margin-top margin-bottom underline">Opgesteld door:</h1>
+        <h3 class="inline" id="rider-count"></h3>
+        <h3 class="inline">van 27 deelnemers</h3>
+        <div class="ul-container-one">
+          <ul class="margin-top" id="selected-riders"></ul>
+        </div>
+      </section>
+    </main>
+  </body>
+</html>

@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tourtoto 2024</title>
+    <link rel="stylesheet" href="style2.css" />
+    <script defer src="ridersNew.js"></script>
+    <script defer src="script1.js"></script>
+  </head>
+  <body>
+    <main class="main">
+      <section id="greeting-container" class="greeting">
+        <div class="title-container">
+          <img src="france.png" alt="flag" />
+          <h1>Tourtoto 2024</h1>
+          <img src="france.png" alt="flag" />
+        </div>
+
+        <h3>Welkom!</h3>
+        <p>
+          De Tour de France is weer los! Florence organiseert Le Grand Départ
+          van de 111e Tour de France, terwijl het slotweekend plaatsvindt in de
+          bergen boven Nice. Aangezien in diezelfde periode de Olympische Spelen
+          in Parijs zijn, is er geen finish op de Champs-Élysées. De Tour start
+          op zaterdag 29 juni en finisht op zondag 21 juli. Dat wordt weer 3
+          weken lang kijken en luisteren naar al ‘t moois wat deze topsport
+          heeft te bieden.
+        </p>
+        <p hidden>
+          Daarom wordt er ook dit jaar weer een tourtoto georganiseerd. De opzet
+          van het spel is hetzelfde als voorgaande jaren, maar de manier om je
+          op te opgeven is wel veranderd...namelijk via deze website!
+        </p>
+        <button id="uitleg-button" class="button-gray">
+          Speluitleg Tourtoto
+        </button>
+        <button id="pay-button" class="button-yellow">Inleg betalen</button>
+
+        <h4 class="underline">Deelnemers + lijstjes, renners en uitvallers:</h4>
+
+        <a href="WieWelkeRenner.html"
+          ><button class="button-green">
+            Opgestelde renners per deelnemer
+          </button></a
+        >
+        <a href="InfoRenner.html"
+          ><button class="button-green">Zoek een renner</button></a
+        >
+        <button class="button-red" id="uitvallers-button">Uitvallers</button>
+      </section>
+      <section id="uitvallers-container" class="hidden">
+        <h3 class="underline">Lijst met uitvallers:</h3>
+        <p>(Laatst bijgewerkt: 3 juli)</p>
+        <ul id="out-of-course"></ul>
+        <button id="close-button-3" class="button-gray">Terug</button>
+      </section>
+      <section hidden>
+        <p>
+          De startlijst van de Tour de France 2024 is bekend. (wijzigingen
+          voorbehouden) Vanaf nu kun je je lijst doorgeven.
+          <strong>
+            De inschrijving sluit op zaterdag 29 juni om 12:00 uur!</strong
+          >
+          <br />
+
+          <a href="inschrijven.html"
+            ><button id="inschrijf-button" class="button-green">
+              Klik hier om je lijst door te geven
+            </button></a
+          >
+        </p>
+
+        <p>
+          Hoe meer zielen, hoe meer vreugd. Dus ken je familieleden, vrienden,
+          buren, etc. die graag mee zouden willen doen..? Graag! Stuur dan de
+          volgende link door: <br />
+          <a href="https://tourtoto-2024.netlify.app"
+            >https://tourtoto-2024.netlify.app</a
+          >
+        </p>
+      </section>
+
+      <section class="betalen hidden" id="betalen">
+        <h3>
+          Klik op onderstaande link of scan de QR code om de inleg voor de
+          TourToto te betalen.
+        </h3>
+        <p>
+          Het bedrag staat standaard ingesteld op €5,- <br />Je kunt dit bedrag
+          aanpassen als je voor meerdere deelnemers wilt betalen. Alvast
+          bedankt!
+        </p>
+        <a
+          href="https://betaalverzoek.rabobank.nl/betaalverzoek/?id=fktYiyKnRjmS48uoTwGi6g"
+          >Klik hier om te betalen</a
+        >
+
+        <img src="QR.JPG" alt="QR" />
+        <div>
+          <button id="close-button-2" class="button-gray">Ga terug</button>
+        </div>
+      </section>
+      <section hidden id="deelnemers-container">
+        <h4>Deelnemers:</h4>
+        <ul id="deelnemers"></ul>
+      </section>
+      <section id="uitleg" class="hidden">
+        <h3>Uitleg</h3>
+        <p>
+          Het is de bedoeling dat je
+          <strong> vijftien wielrenners gaat selecteren</strong> + een aantal
+          <strong> reserve renners </strong> (maximaal 7). De vijftien renners
+          die jij hebt geselecteerd kunnen elke etappe punten voor jou
+          verdienen. De eerste twintig renners die over de finish komen
+          verdienen punten voor die etappe. Ook voor het eindklassement krijgen
+          de eerste twintig renners punten.
+        </p>
+        <p>
+          Tevens kun je extra punten scoren met de voorspelling van de
+          eindwinnaars van de gele, groene en bolletjestrui.
+        </p>
+        <p>
+          De inleg is € 5,00. Je maakt kans op leuke geldbedragen en de
+          felbegeerde wisselbeker! Lijkt het je wat? Dan kun je je opgeven via
+          deze website
+        </p>
+
+        <h3>Puntenverdeling:</h3>
+
+        <div class="column-container">
+          <div class="left">
+            <h4>Puntenverdeling per etappe:</h4>
+            <div class="two-columns">
+              <span>1e :</span>
+              <span>35 punten</span>
+            </div>
+            <div class="two-columns">
+              <span>2e :</span>
+              <span>30 punten</span>
+            </div>
+            <div class="two-columns">
+              <span>3e :</span>
+              <span>27 punten</span>
+            </div>
+            <div class="two-columns">
+              <span>4e :</span>
+              <span>24 punten</span>
+            </div>
+            <div class="two-columns">
+              <span>5e :</span>
+              <span>22 punten</span>
+            </div>
+            <div class="two-columns">
+              <span>6e :</span>
+              <span>20 punten</span>
+            </div>
+            <div class="two-columns">
+              <span>7e :</span>
+              <span>18 punten</span>
+            </div>
+            <div class="two-columns">
+              <span>8e :</span>
+              <span>16 punten</span>
+            </div>
+            <div class="two-columns">
+              <span>9e :</span>
+              <span>14 punten</span>
+            </div>
+            <div class="two-columns">
+              <span>10e :</span>
+              <span>12 punten</span>
+            </div>
+            <div class="two-columns">
+              <span>11e :</span>
+              <span>10 punten</span>
+            </div>
+            <div class="two-columns">
+              <span>12e :</span>
+              <span>9 punten</span>
+            </div>
+            <div class="two-columns">
+              <span>13e :</span>
+              <span>8 punten</span>
+            </div>
+            <div class="two-columns">
+              <span>14e :</span>
+              <span>7 punten</span>
+            </div>
+            <div class="two-columns">
+              <span>15e :</span>
+              <span>6 punten</span>
+            </div>
+            <div class="two-columns">
+              <span>16e :</span>
+              <span>5 punten</span>
+            </div>
+            <div class="two-columns">
+              <span>17e :</span>
+              <span>4 punten</span>
+            </div>
+            <div class="two-columns">
+              <span>18e :</span>
+              <span>3 punten</span>
+            </div>
+            <div class="two-columns">
+              <span>19e :</span>
+              <span>2 punten</span>
+            </div>
+            <div class="two-columns">
+              <span>20e :</span>
+              <span>1 punt</span>
+            </div>
+          </div>
+          <div class="right">
+            <h4>Puntenverdeling eindklassement:</h4>
+            <div class="two-columns">
+              <span>1e :</span>
+              <span>70 punten</span>
+            </div>
+            <div class="two-columns">
+              <span>2e :</span>
+              <span>60 punten</span>
+            </div>
+            <div class="two-columns">
+              <span>3e :</span>
+              <span>54 punten</span>
+            </div>
+            <div class="two-columns">
+              <span>4e :</span>
+              <span>48 punten</span>
+            </div>
+            <div class="two-columns">
+              <span>5e :</span>
+              <span>44 punten</span>
+            </div>
+            <div class="two-columns">
+              <span>6e :</span>
+              <span>40 punten</span>
+            </div>
+            <div class="two-columns">
+              <span>7e :</span>
+              <span>36 punten</span>
+            </div>
+            <div class="two-columns">
+              <span>8e :</span>
+              <span>32 punten</span>
+            </div>
+            <div class="two-columns">
+              <span>9e :</span>
+              <span>28 punten</span>
+            </div>
+            <div class="two-columns">
+              <span>10e :</span>
+              <span>24 punten</span>
+            </div>
+            <div class="two-columns">
+              <span>11e :</span>
+              <span>20 punten</span>
+            </div>
+            <div class="two-columns">
+              <span>12e :</span>
+              <span>18 punten</span>
+            </div>
+            <div class="two-columns">
+              <span>13e :</span>
+              <span>16 punten</span>
+            </div>
+            <div class="two-columns">
+              <span>14e :</span>
+              <span>14 punten</span>
+            </div>
+            <div class="two-columns">
+              <span>15e :</span>
+              <span>12 punten</span>
+            </div>
+            <div class="two-columns">
+              <span>16e :</span>
+              <span>10 punten</span>
+            </div>
+            <div class="two-columns">
+              <span>17e :</span>
+              <span>8 punten</span>
+            </div>
+            <div class="two-columns">
+              <span>18e :</span>
+              <span>6 punten</span>
+            </div>
+            <div class="two-columns">
+              <span>19e :</span>
+              <span>4 punten</span>
+            </div>
+            <div class="two-columns">
+              <span>20e :</span>
+              <span>2 punten</span>
+            </div>
+          </div>
+        </div>
+        <div class="full-width">
+          <h3>Extra punten te verdienen door:</h3>
+
+          <p class="two-columns">
+            <span>Eindwinnaar gele trui goed voorspeld is:</span>
+            <span>100 punten extra.</span>
+          </p>
+
+          <p class="two-columns">
+            <span>Eindwinnaar groene trui goed voorspeld is:</span>
+            <span>50 punten extra.</span>
+          </p>
+
+          <p class="two-columns">
+            <span>Eindwinnaar bolletjestrui goed voorspeld is:</span>
+            <span>50 punten extra.</span>
+          </p>
+        </div>
+
+        <h3>Belangrijk:</h3>
+
+        <p>
+          Je inschrijving moet voor zaterdag 29 juni 2024 12:00 uur binnen zijn!
+        </p>
+        <p>
+          Mocht een renner door alle toto deelnemers zijn opgesteld, dan wordt
+          deze renner van alle lijsten geschrapt en wordt je lijst aangevuld met
+          je eerste reserve renner. Ook als na het aanvullen van reserve
+          renner(s) een renner door alle deelnemers is opgesteld, dan wordt deze
+          renner van alle lijsten geschrapt en weer aangevuld door de
+          eerstvolgende reserve renner enz. enz.
+        </p>
+        <p>
+          De lijst reserverenners wordt ook gebruikt om renners die onverhoopt
+          niet mochten starten in de eerste etappe, te vervangen.
+        </p>
+        <p>
+          Bij een gelijke eindstand zullen de punten van de eerste ongebruikte
+          reserverenner de doorslag moeten geven.
+        </p>
+        <p>
+          Als deelnemers precies dezelfde teams hebben opgesteld, dan wordt de
+          eindklassering bepaald door de eerste reserve die niet is opgesteld.
+        </p>
+        <p>De winnaar van elke etappe wint een dagprijs van € 2,00.</p>
+        <p>
+          Na elke etappe ontvang je via de door jou opgegeven e-mail een update.
+        </p>
+        <p>
+          Na afloop van de tourtoto worden de geldprijzen overgemaakt naar het
+          IBAN waar vandaan je de inleg hebt betaald.
+        </p>
+
+        <button id="close-button" class="button-gray">Sluiten</button>
+      </section>
+    </main>
+  </body>
+</html>
