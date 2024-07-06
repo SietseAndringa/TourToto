@@ -40,6 +40,10 @@ span {
   background-color: lightgreen;
 }
 
+.red {
+  background-color: tomato;
+}
+
 ul {
   list-style: none;
   margin: 0;

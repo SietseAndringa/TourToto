@@ -219,7 +219,7 @@ const riders = [
     id: 45,
     name: " PEDERSEN Mads",
     team: "Lidl - Trek",
-    inCourse: true,
+    inCourse: false,
   },
   {
     id: 46,

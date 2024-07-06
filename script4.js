@@ -31,12 +31,21 @@ function renderFullList(players) {
       const selectedRiders = filterTwoArrays(riders, selectedPlayer.riders);
       selectedRiders.sort((a, b) => (a.name > b.name ? 1 : -1));
       selectedRiders.forEach((rider) => {
-        list.insertAdjacentHTML(
-          "beforeend",
-          `<li class="li-rider-selected" id=${rider.id}>
-          <span>${rider.name}</span>
-          </li>`
-        );
+        if (rider.inCourse === true) {
+          list.insertAdjacentHTML(
+            "beforeend",
+            `<li class="li-rider-selected" id=${rider.id}>
+            <span>${rider.name}</span>
+            </li>`
+          );
+        } else {
+          list.insertAdjacentHTML(
+            "beforeend",
+            `<li class="li-rider-selected" id=${rider.id}>
+            <span class="red">${rider.name}</span>
+            </li>`
+          );
+        }
       });
     });
   });

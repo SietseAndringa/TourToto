@@ -11,6 +11,8 @@
   </head>
   <body>
     <main class="main">
+      <!-- Welkomswoordje -->
+
       <section id="greeting-container" class="greeting">
         <div class="title-container">
           <img src="france.png" alt="flag" />
@@ -33,6 +35,37 @@
           van het spel is hetzelfde als voorgaande jaren, maar de manier om je
           op te opgeven is wel veranderd...namelijk via deze website!
         </p>
+
+        <!-- Groet voor de start -->
+
+        <section hidden>
+          <p>
+            De startlijst van de Tour de France 2024 is bekend. (wijzigingen
+            voorbehouden) Vanaf nu kun je je lijst doorgeven.
+            <strong>
+              De inschrijving sluit op zaterdag 29 juni om 12:00 uur!</strong
+            >
+            <br />
+
+            <a href="inschrijven.html"
+              ><button id="inschrijf-button" class="button-green">
+                Klik hier om je lijst door te geven
+              </button></a
+            >
+          </p>
+
+          <p>
+            Hoe meer zielen, hoe meer vreugd. Dus ken je familieleden, vrienden,
+            buren, etc. die graag mee zouden willen doen..? Graag! Stuur dan de
+            volgende link door: <br />
+            <a href="https://tourtoto-2024.netlify.app"
+              >https://tourtoto-2024.netlify.app</a
+            >
+          </p>
+        </section>
+
+        <!-- Knoppen -->
+
         <button id="uitleg-button" class="button-gray">
           Speluitleg Tourtoto
         </button>
@@ -50,37 +83,17 @@
         >
         <button class="button-red" id="uitvallers-button">Uitvallers</button>
       </section>
+
+      <!-- Uitvallers sectie -->
+
       <section id="uitvallers-container" class="hidden">
         <h3 class="underline">Lijst met uitvallers:</h3>
         <p>(Laatst bijgewerkt: 3 juli)</p>
         <ul id="out-of-course"></ul>
         <button id="close-button-3" class="button-gray">Terug</button>
       </section>
-      <section hidden>
-        <p>
-          De startlijst van de Tour de France 2024 is bekend. (wijzigingen
-          voorbehouden) Vanaf nu kun je je lijst doorgeven.
-          <strong>
-            De inschrijving sluit op zaterdag 29 juni om 12:00 uur!</strong
-          >
-          <br />
 
-          <a href="inschrijven.html"
-            ><button id="inschrijf-button" class="button-green">
-              Klik hier om je lijst door te geven
-            </button></a
-          >
-        </p>
-
-        <p>
-          Hoe meer zielen, hoe meer vreugd. Dus ken je familieleden, vrienden,
-          buren, etc. die graag mee zouden willen doen..? Graag! Stuur dan de
-          volgende link door: <br />
-          <a href="https://tourtoto-2024.netlify.app"
-            >https://tourtoto-2024.netlify.app</a
-          >
-        </p>
-      </section>
+      <!-- Betalen sectie -->
 
       <section class="betalen hidden" id="betalen">
         <h3>
@@ -102,10 +115,16 @@
           <button id="close-button-2" class="button-gray">Ga terug</button>
         </div>
       </section>
+
+      <!-- Lijst voorlopige deelnemers -->
+
       <section hidden id="deelnemers-container">
-        <h4>Deelnemers:</h4>
+        <h4>Deelnemers tot nu toe:</h4>
         <ul id="deelnemers"></ul>
       </section>
+
+      <!-- Speltuitleg sectie -->
+
       <section id="uitleg" class="hidden">
         <h3>Uitleg</h3>
         <p>
