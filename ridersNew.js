@@ -429,7 +429,7 @@ const riders = [
     id: 88,
     name: " VLASOV Aleksandr",
     team: "Red Bull – BORA – hansgrohe",
-    inCourse: true,
+    inCourse: false,
   },
   {
     id: 91,
