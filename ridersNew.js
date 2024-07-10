@@ -333,7 +333,7 @@ const riders = [
     id: 68,
     name: " WRIGHT Fred",
     team: "Bahrain - Victorious",
-    inCourse: true,
+    inCourse: false,
   },
   {
     id: 71,
