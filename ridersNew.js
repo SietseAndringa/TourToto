@@ -207,7 +207,7 @@ const riders = [
     id: 43,
     name: " DECLERCQ Tim",
     team: "Lidl - Trek",
-    inCourse: true,
+    inCourse: false,
   },
   {
     id: 44,
@@ -705,13 +705,13 @@ const riders = [
     id: 146,
     name: " IZAGIRRE Ion",
     team: "Cofidis",
-    inCourse: true,
+    inCourse: false,
   },
   {
     id: 147,
     name: " RENARD Alexis",
     team: "Cofidis",
-    inCourse: true,
+    inCourse: false,
   },
   {
     id: 148,
