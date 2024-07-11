@@ -291,7 +291,7 @@ const riders = [
     id: 61,
     name: " BILBAO Pello",
     team: "Bahrain - Victorious",
-    inCourse: true,
+    inCourse: false,
   },
   {
     id: 62,
@@ -891,7 +891,7 @@ const riders = [
     id: 185,
     name: " JAKOBSEN Fabio",
     team: "Team dsm-firmenich PostNL",
-    inCourse: true,
+    inCourse: false,
   },
   {
     id: 186,
@@ -951,7 +951,7 @@ const riders = [
     id: 197,
     name: " MØRKØV Michael",
     team: "Astana Qazaqstan Team",
-    inCourse: true,
+    inCourse: false,
   },
   {
     id: 198,
