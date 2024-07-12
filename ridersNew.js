@@ -63,7 +63,7 @@ const riders = [
     id: 13,
     name: " AYUSO Juan",
     team: "UAE Team Emirates",
-    inCourse: true,
+    inCourse: false,
   },
   {
     id: 14,
@@ -387,7 +387,7 @@ const riders = [
     id: 81,
     name: " ROGLIČ Primož",
     team: "Red Bull – BORA – hansgrohe",
-    inCourse: true,
+    inCourse: false,
   },
   {
     id: 82,
@@ -501,7 +501,7 @@ const riders = [
     id: 104,
     name: " KRAGH ANDERSEN Søren",
     team: "Alpecin - Deceuninck",
-    inCourse: true,
+    inCourse: false,
   },
   {
     id: 105,
@@ -519,7 +519,7 @@ const riders = [
     id: 107,
     name: " RICKAERT Jonas",
     team: "Alpecin - Deceuninck",
-    inCourse: true,
+    inCourse: false,
   },
   {
     id: 108,
@@ -699,7 +699,7 @@ const riders = [
     id: 145,
     name: " HERRADA Jesús",
     team: "Cofidis",
-    inCourse: true,
+    inCourse: false,
   },
   {
     id: 146,
@@ -933,7 +933,7 @@ const riders = [
     id: 194,
     name: " FEDOROV Yevgeniy",
     team: "Astana Qazaqstan Team",
-    inCourse: true,
+    inCourse: false,
   },
   {
     id: 195,
