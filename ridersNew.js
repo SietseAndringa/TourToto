@@ -177,7 +177,7 @@ const riders = [
     id: 36,
     name: " PIDCOCK Thomas",
     team: "INEOS Grenadiers",
-    inCourse: true,
+    inCourse: false,
   },
   {
     id: 37,
