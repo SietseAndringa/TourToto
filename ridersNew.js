@@ -381,7 +381,7 @@ const riders = [
     id: 78,
     name: " VERVAEKE Louis",
     team: "Soudal Quick-Step",
-    inCourse: true,
+    inCourse: false,
   },
   {
     id: 81,
@@ -537,7 +537,7 @@ const riders = [
     id: 112,
     name: " BETTIOL Alberto",
     team: "EF Education - EasyPost",
-    inCourse: true,
+    inCourse: false,
   },
   {
     id: 113,
@@ -639,7 +639,7 @@ const riders = [
     id: 133,
     name: " BOIVIN Guillaume",
     team: "Israel - Premier Tech",
-    inCourse: true,
+    inCourse: false,
   },
   {
     id: 134,
@@ -777,7 +777,7 @@ const riders = [
     id: 162,
     name: " CAPIOT Amaury",
     team: "Arkéa - B&B Hotels",
-    inCourse: true,
+    inCourse: false,
   },
   {
     id: 163,
