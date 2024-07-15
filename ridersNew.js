@@ -855,7 +855,7 @@ const riders = [
     id: 177,
     name: " THIJSSEN Gerben",
     team: "Intermarché - Wanty",
-    inCourse: true,
+    inCourse: false,
   },
   {
     id: 178,
@@ -909,7 +909,7 @@ const riders = [
     id: 188,
     name: " WELTEN Bram",
     team: "Team dsm-firmenich PostNL",
-    inCourse: true,
+    inCourse: false,
   },
   {
     id: 191,
