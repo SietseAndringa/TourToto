@@ -117,7 +117,7 @@ const riders = [
     id: 24,
     name: " HARPER Chris",
     team: "Team Jayco AlUla",
-    inCourse: true,
+    inCourse: false,
   },
   {
     id: 25,
@@ -609,7 +609,7 @@ const riders = [
     id: 126,
     name: " VAN GILS Maxim",
     team: "Lotto Dstny",
-    inCourse: true,
+    inCourse: false,
   },
   {
     id: 127,
