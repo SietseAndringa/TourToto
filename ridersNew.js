@@ -141,7 +141,7 @@ const riders = [
     id: 28,
     name: " REINDERS Elmar",
     team: "Team Jayco AlUla",
-    inCourse: true,
+    inCourse: false,
   },
   {
     id: 31,
@@ -255,7 +255,7 @@ const riders = [
     id: 53,
     name: " BENNETT Sam",
     team: "Decathlon AG2R La Mondiale Team",
-    inCourse: true,
+    inCourse: false,
   },
   {
     id: 54,
@@ -303,7 +303,7 @@ const riders = [
     id: 63,
     name: " BAUHAUS Phil",
     team: "Bahrain - Victorious",
-    inCourse: true,
+    inCourse: false,
   },
   {
     id: 64,
@@ -741,7 +741,7 @@ const riders = [
     id: 154,
     name: " GAVIRIA Fernando",
     team: "Movistar Team",
-    inCourse: true,
+    inCourse: false,
   },
   {
     id: 155,
@@ -945,7 +945,7 @@ const riders = [
     id: 196,
     name: " LUTSENKO Alexey",
     team: "Astana Qazaqstan Team",
-    inCourse: true,
+    inCourse: false,
   },
   {
     id: 197,
