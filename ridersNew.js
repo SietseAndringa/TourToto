@@ -63,7 +63,7 @@ const riders = [
     id: 13,
     name: " AYUSO Juan",
     team: "UAE Team Emirates",
-    inCourse: true,
+    inCourse: false,
   },
   {
     id: 14,
@@ -117,7 +117,7 @@ const riders = [
     id: 24,
     name: " HARPER Chris",
     team: "Team Jayco AlUla",
-    inCourse: true,
+    inCourse: false,
   },
   {
     id: 25,
@@ -141,7 +141,7 @@ const riders = [
     id: 28,
     name: " REINDERS Elmar",
     team: "Team Jayco AlUla",
-    inCourse: true,
+    inCourse: false,
   },
   {
     id: 31,
@@ -177,7 +177,7 @@ const riders = [
     id: 36,
     name: " PIDCOCK Thomas",
     team: "INEOS Grenadiers",
-    inCourse: true,
+    inCourse: false,
   },
   {
     id: 37,
@@ -207,7 +207,7 @@ const riders = [
     id: 43,
     name: " DECLERCQ Tim",
     team: "Lidl - Trek",
-    inCourse: true,
+    inCourse: false,
   },
   {
     id: 44,
@@ -255,7 +255,7 @@ const riders = [
     id: 53,
     name: " BENNETT Sam",
     team: "Decathlon AG2R La Mondiale Team",
-    inCourse: true,
+    inCourse: false,
   },
   {
     id: 54,
@@ -291,7 +291,7 @@ const riders = [
     id: 61,
     name: " BILBAO Pello",
     team: "Bahrain - Victorious",
-    inCourse: true,
+    inCourse: false,
   },
   {
     id: 62,
@@ -303,7 +303,7 @@ const riders = [
     id: 63,
     name: " BAUHAUS Phil",
     team: "Bahrain - Victorious",
-    inCourse: true,
+    inCourse: false,
   },
   {
     id: 64,
@@ -333,7 +333,7 @@ const riders = [
     id: 68,
     name: " WRIGHT Fred",
     team: "Bahrain - Victorious",
-    inCourse: true,
+    inCourse: false,
   },
   {
     id: 71,
@@ -381,13 +381,13 @@ const riders = [
     id: 78,
     name: " VERVAEKE Louis",
     team: "Soudal Quick-Step",
-    inCourse: true,
+    inCourse: false,
   },
   {
     id: 81,
     name: " ROGLIČ Primož",
     team: "Red Bull – BORA – hansgrohe",
-    inCourse: true,
+    inCourse: false,
   },
   {
     id: 82,
@@ -429,7 +429,7 @@ const riders = [
     id: 88,
     name: " VLASOV Aleksandr",
     team: "Red Bull – BORA – hansgrohe",
-    inCourse: true,
+    inCourse: false,
   },
   {
     id: 91,
@@ -501,7 +501,7 @@ const riders = [
     id: 104,
     name: " KRAGH ANDERSEN Søren",
     team: "Alpecin - Deceuninck",
-    inCourse: true,
+    inCourse: false,
   },
   {
     id: 105,
@@ -519,7 +519,7 @@ const riders = [
     id: 107,
     name: " RICKAERT Jonas",
     team: "Alpecin - Deceuninck",
-    inCourse: true,
+    inCourse: false,
   },
   {
     id: 108,
@@ -537,7 +537,7 @@ const riders = [
     id: 112,
     name: " BETTIOL Alberto",
     team: "EF Education - EasyPost",
-    inCourse: true,
+    inCourse: false,
   },
   {
     id: 113,
@@ -609,7 +609,7 @@ const riders = [
     id: 126,
     name: " VAN GILS Maxim",
     team: "Lotto Dstny",
-    inCourse: true,
+    inCourse: false,
   },
   {
     id: 127,
@@ -639,7 +639,7 @@ const riders = [
     id: 133,
     name: " BOIVIN Guillaume",
     team: "Israel - Premier Tech",
-    inCourse: true,
+    inCourse: false,
   },
   {
     id: 134,
@@ -699,19 +699,19 @@ const riders = [
     id: 145,
     name: " HERRADA Jesús",
     team: "Cofidis",
-    inCourse: true,
+    inCourse: false,
   },
   {
     id: 146,
     name: " IZAGIRRE Ion",
     team: "Cofidis",
-    inCourse: true,
+    inCourse: false,
   },
   {
     id: 147,
     name: " RENARD Alexis",
     team: "Cofidis",
-    inCourse: true,
+    inCourse: false,
   },
   {
     id: 148,
@@ -741,7 +741,7 @@ const riders = [
     id: 154,
     name: " GAVIRIA Fernando",
     team: "Movistar Team",
-    inCourse: true,
+    inCourse: false,
   },
   {
     id: 155,
@@ -777,7 +777,7 @@ const riders = [
     id: 162,
     name: " CAPIOT Amaury",
     team: "Arkéa - B&B Hotels",
-    inCourse: true,
+    inCourse: false,
   },
   {
     id: 163,
@@ -855,7 +855,7 @@ const riders = [
     id: 177,
     name: " THIJSSEN Gerben",
     team: "Intermarché - Wanty",
-    inCourse: true,
+    inCourse: false,
   },
   {
     id: 178,
@@ -891,7 +891,7 @@ const riders = [
     id: 185,
     name: " JAKOBSEN Fabio",
     team: "Team dsm-firmenich PostNL",
-    inCourse: true,
+    inCourse: false,
   },
   {
     id: 186,
@@ -909,7 +909,7 @@ const riders = [
     id: 188,
     name: " WELTEN Bram",
     team: "Team dsm-firmenich PostNL",
-    inCourse: true,
+    inCourse: false,
   },
   {
     id: 191,
@@ -933,7 +933,7 @@ const riders = [
     id: 194,
     name: " FEDOROV Yevgeniy",
     team: "Astana Qazaqstan Team",
-    inCourse: true,
+    inCourse: false,
   },
   {
     id: 195,
@@ -945,13 +945,13 @@ const riders = [
     id: 196,
     name: " LUTSENKO Alexey",
     team: "Astana Qazaqstan Team",
-    inCourse: true,
+    inCourse: false,
   },
   {
     id: 197,
     name: " MØRKØV Michael",
     team: "Astana Qazaqstan Team",
-    inCourse: true,
+    inCourse: false,
   },
   {
     id: 198,
