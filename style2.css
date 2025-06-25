@@ -1,14 +1,23 @@
 body {
-  background-image: url("https://assets-prd.ignimgs.com/2024/02/29/tour-de-france-2024-button-1709236174087.jpg");
+  background-image: url("tour_logo.png");
   background-size: contain;
-  background-color: rgba(255, 255, 255, 0.95);
+  background-color: rgba(255, 250, 202, 0.97);
   background-blend-mode: lighten;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-size: smaller;
+  font-size: clamp(0.9rem, 1.5vw, 1.1rem);
+  line-height: 1.5;
+}
+
+h1 {
+  font-size: 1.7rem;
+}
+
+h2 {
+  font-size: 1.3rem;
 }
 
 .main {
-  max-width: 400px;
+  max-width: 700px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -19,10 +28,6 @@ ul {
   padding: 0;
 }
 
-h1 {
-  margin-bottom: 0;
-}
-
 .title-container img {
   width: 15%;
   height: 15%;
@@ -30,30 +35,47 @@ h1 {
 
 .title-container {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
+  align-items: center;
 }
 
 button {
+  max-height: fit-content;
+  display: inline-block;
   cursor: pointer;
-  padding: 20px;
+  padding-inline: 20px;
+  padding-block: 15px;
+  border-radius: 10px;
+  border-style: none;
   font-weight: bold;
-  margin-top: 1rem;
+  font-size: medium;
 }
 
 .button-green {
-  background-color: lightgreen;
+  background-color: rgb(130, 255, 130);
 }
 
 .button-gray {
-  background-color: lightsteelblue;
+  background-color: rgb(65, 71, 155);
+  color: white;
 }
 
 .button-yellow {
-  background-color: yellow;
+  background-color: rgb(255, 208, 0);
 }
 
 .button-red {
   background-color: tomato;
+}
+
+.width-full {
+  width: 100%;
+}
+
+.btn-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 input {
@@ -103,8 +125,8 @@ input {
 }
 
 .betalen a {
-  display: block;
-  background-color: yellow;
+  display: inline-block;
+  background-color: rgb(255, 208, 0);
   padding: 1rem;
   width: fit-content;
   margin-left: auto;
@@ -119,4 +141,17 @@ input {
 .riders-out {
   background-color: rgb(255, 134, 113);
   margin: 2px;
+}
+
+.uitleg-header-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-uitleg {
+  width: calc(85% - 105px);
+  text-align: center;
+  padding-right: 15%;
+  text-decoration: underline;
 }

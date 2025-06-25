@@ -4,10 +4,10 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Tourtoto 2024</title>
+    <title>Tourtoto 2025</title>
     <link rel="stylesheet" href="style2.css" />
     <script defer src="ridersNew.js"></script>
-    <script defer src="script1.js"></script>
+    <script defer src="index.js"></script>
   </head>
   <body>
     <main class="main">
@@ -16,83 +16,111 @@
       <section id="greeting-container" class="greeting">
         <div class="title-container">
           <img src="france.png" alt="flag" />
-          <h1>Tourtoto 2024</h1>
+          <h1>Tourtoto 2025</h1>
           <img src="france.png" alt="flag" />
         </div>
 
-        <h3>Welkom!</h3>
+        <h2>Welkom!</h2>
         <p>
-          De Tour de France is weer los! Florence organiseert Le Grand Départ
-          van de 111e Tour de France, terwijl het slotweekend plaatsvindt in de
-          bergen boven Nice. Aangezien in diezelfde periode de Olympische Spelen
-          in Parijs zijn, is er geen finish op de Champs-Élysées. De Tour start
-          op zaterdag 29 juni en finisht op zondag 21 juli. Dat wordt weer 3
-          weken lang kijken en luisteren naar al ‘t moois wat deze topsport
-          heeft te bieden.
+          Binnenkort barst de Tour de France weer los! <br />
+          De 112e editie start op zaterdag 5 juli in Lille en finisht op zondag
+          de 27e in Parijs. De race gaat de eerste week via Normandië en
+          Bretagne, waarna de Pyreneeën in de tweede week aan de beurt zijn. In
+          de slotweek worden de Alpen beklommen en in de finale van de slotetappe een korte kasseiklim. Tevens krijgen de renners twee individuele
+          tijdritten voor de wielen, waarvan eentje steil bergop. Dat wordt weer
+          3 weken lang genieten van al ‘t spectakel dat deze topsport heeft te
+          bieden!
         </p>
-        <p hidden>
-          Daarom wordt er ook dit jaar weer een tourtoto georganiseerd. De opzet
-          van het spel is hetzelfde als voorgaande jaren, maar de manier om je
-          op te opgeven is wel veranderd...namelijk via deze website!
+        <p>
+          Om dit alles nog eens extra leuk te maken, wordt (traditiegetrouw) ook dit jaar
+          de <strong>TourToto</strong> weer georganiseerd.
+          Als het je leuk lijkt om mee te doen kun je jezelf straks
+          via deze site opgeven en je lijst insturen. <i>(Dit kan nu nog niet, omdat nog niet alle deelnemende renners bekend zijn).</i> De opzet van het spel is hetzelfde als voorgaande jaren. Druk op onderstaande knop
+          voor de speluitleg.
+        </p>
+        <p></p>
+        <div class="width-full">
+          <button id="uitleg-button" class="button-gray btn-center">
+            Speluitleg Tourtoto 📕
+          </button>
+        </div>
+        <p>
+          Hoe meer zielen, hoe meer vreugd. Dus ken je familieleden, vrienden,
+          buren, etc. die graag mee zouden willen doen? Graag! Stuur dan de
+          volgende link door:
+          <p><i>https://tourtoto.netlify.app</i></p>
         </p>
 
-        <!-- Groet voor de start -->
+        <p>
+          Zodra de <i style="font-weight: 600;">complete startlijst</i> met renners bekend is, krijg je een
+          <i style="font-weight: 600;">berichtje.</i> De verwachting is dat dit uiterlijk
+          2 of 3 juli zal zijn.
+         Je krijgt dan een (digitale) lijst met alle renners te zien waaruit je kunt kiezen. D.m.v. een renner aan te klikken kun je een lijst maken en daarna opsturen.
+         In de tussentijd zou je natuurlijk wel alvast na kunnen gaan
+          denken welke toppers op je lijstje gaan komen.😉 Op 
+          <a class="button"
+            href="https://www.procyclingstats.com/race/tour-de-france/2025/startlist"
+            >deze website</a
+          > vind je alvast een <i>voorlopige</i> lijst met renners die meedoen. <strong>Let op! </strong> dit is nog niet de 
+officiële lijst.
+        </p>
+        
+        <p>
+          We hopen natuurlijk weer op vele deelnemers en een spannende tour +
+          toto!
+        </p>
+        <p>
+          Ps. voor vragen kun je altijd mailen naar: <a href="mailto:andringa.sietse@gmail.com">andringa.sietse@gmail.com</a>
+        </p> 
+      </section>
 
-        <section>
+        <!-- Opgave sectie -->
+      
+      <section hidden>
           <p>
-            De startlijst van de Tour de France 2024 is bekend. (wijzigingen
+            De startlijst van de Tour de France 2025 is bekend. (wijzigingen
             voorbehouden) Vanaf nu kun je je lijst doorgeven.
             <strong>
-              De inschrijving sluit op zaterdag 29 juni om 12:00 uur!</strong
+              De inschrijving sluit op zaterdag 5 juli om 12:00 uur!</strong
             >
-            <br />
-
+            </p>
             <a href="inschrijven.html"
               ><button id="inschrijf-button" class="button-green">
                 Klik hier om je lijst door te geven
               </button></a
             >
-          </p>
+          <button id="pay-button" class="button-yellow">Inleg betalen</button>
+      </section>
 
-          <p>
-            Hoe meer zielen, hoe meer vreugd. Dus ken je familieleden, vrienden,
-            buren, etc. die graag mee zouden willen doen..? Graag! Stuur dan de
-            volgende link door: <br />
-            <a href="https://tourtoto-2024.netlify.app"
-              >https://tourtoto-2024.netlify.app</a
-            >
-          </p>
-        </section>
+        <!-- Lijst voorlopige deelnemers -->
 
-        <!-- Knoppen -->
+      <section hidden id="deelnemers-container">
+        <h4>Deelnemers tot nu toe:</h4>
+        <ul id="deelnemers"></ul>
+      </section>
 
-        <button id="uitleg-button" class="button-gray">
-          Speluitleg Tourtoto
-        </button>
-        <button id="pay-button" class="button-yellow">Inleg betalen</button>
+      <!-- Lijstjes deelnemers -->
 
-        <h4 class="underline">Deelnemers + lijstjes, renners en uitvallers:</h4>
+        <section hidden>
+          <h4 class="underline">Deelnemers + lijstjes, renners en uitvallers:</h4>
 
-        <a href="WieWelkeRenner.html"
+          <a href="WieWelkeRenner.html"
           ><button class="button-green">
             Opgestelde renners per deelnemer
           </button></a
-        >
-        <a href="InfoRenner.html"
+          >
+          <a href="InfoRenner.html"
           ><button class="button-green">Zoek een renner</button></a
-        >
-        <button class="button-red" id="uitvallers-button">Uitvallers</button>
-      </section>
+          >
+          <button class="button-red" id="uitvallers-button">Uitvallers</button>
+        </section>
+      
 
       <!-- Uitvallers sectie -->
 
       <section id="uitvallers-container" class="hidden">
         <h3 class="underline">Lijst met uitvallers:</h3>
-<<<<<<< HEAD
-        <p>(Laatst bijgewerkt: 6 juli)</p>
-=======
         <p>(Laatst bijgewerkt: 18 juli)</p>
->>>>>>> 3c6d1bda2923d3a1a588a121724637f5b06b136c
         <ul id="out-of-course"></ul>
         <button id="close-button-3" class="button-gray">Terug</button>
       </section>
@@ -120,17 +148,17 @@
         </div>
       </section>
 
-      <!-- Lijst voorlopige deelnemers -->
-
-      <section hidden id="deelnemers-container">
-        <h4>Deelnemers tot nu toe:</h4>
-        <ul id="deelnemers"></ul>
-      </section>
-
       <!-- Speltuitleg sectie -->
 
       <section id="uitleg" class="hidden">
-        <h3>Uitleg</h3>
+        <div class="uitleg-header-wrapper">
+          <button id="close-button" class="button-gray btn-back">
+            ↩ Terug
+          </button>
+          <div class="header-uitleg">
+            <h2>Speluitleg Tourtoto</h2>
+          </div>
+        </div>
         <p>
           Het is de bedoeling dat je
           <strong> vijftien wielrenners gaat selecteren</strong> + een aantal
@@ -342,10 +370,11 @@
         <h3>Belangrijk:</h3>
 
         <p>
-          Je inschrijving moet voor zaterdag 29 juni 2024 12:00 uur binnen zijn!
+          - Je inschrijving moet
+          <strong>voor zaterdag 5 juni 2025 12:00 uur</strong> binnen zijn!
         </p>
         <p>
-          Mocht een renner door alle toto deelnemers zijn opgesteld, dan wordt
+          - Mocht een renner door alle toto deelnemers zijn opgesteld, dan wordt
           deze renner van alle lijsten geschrapt en wordt je lijst aangevuld met
           je eerste reserve renner. Ook als na het aanvullen van reserve
           renner(s) een renner door alle deelnemers is opgesteld, dan wordt deze
@@ -353,27 +382,26 @@
           eerstvolgende reserve renner enz. enz.
         </p>
         <p>
-          De lijst reserverenners wordt ook gebruikt om renners die onverhoopt
+          - De lijst reserverenners wordt ook gebruikt om renners die onverhoopt
           niet mochten starten in de eerste etappe, te vervangen.
         </p>
         <p>
-          Bij een gelijke eindstand zullen de punten van de eerste ongebruikte
+          - Bij een gelijke eindstand zullen de punten van de eerste ongebruikte
           reserverenner de doorslag moeten geven.
         </p>
         <p>
-          Als deelnemers precies dezelfde teams hebben opgesteld, dan wordt de
+          - Als deelnemers precies dezelfde teams hebben opgesteld, dan wordt de
           eindklassering bepaald door de eerste reserve die niet is opgesteld.
         </p>
-        <p>De winnaar van elke etappe wint een dagprijs van € 2,00.</p>
+        <p>- De winnaar van elke etappe wint een dagprijs van € 2,00.</p>
         <p>
-          Na elke etappe ontvang je via de door jou opgegeven e-mail een update.
+          - Na elke etappe ontvang je via de door jou opgegeven e-mail een
+          update.
         </p>
         <p>
-          Na afloop van de tourtoto worden de geldprijzen overgemaakt naar het
+          - Na afloop van de tourtoto worden de geldprijzen overgemaakt naar het
           IBAN waar vandaan je de inleg hebt betaald.
         </p>
-
-        <button id="close-button" class="button-gray">Sluiten</button>
       </section>
     </main>
   </body>

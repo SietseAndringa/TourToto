@@ -11,9 +11,35 @@
     <title>Tourtoto lijstje maker</title>
     <link rel="stylesheet" href="style.css" />
     <script defer src="ridersNew.js"></script>
-    <script defer src="script2.js"></script>
+    <script defer src="inschrijven.js"></script>
   </head>
   <body>
+    <dialog id="dialog-greeting" class="dialog">
+      <div class="dialog-wrapper">
+        <div class="dialog-container">
+          <h2>Welkom, leuk dat je meedoet aan de Tourtoto 2025!</h2>
+          <p>Om te beginnen hebben we wat gegevens van je nodig...</p>
+          <button id="dialog-greeting-btn">Ga verder</button>
+        </div>
+      </div>
+    </dialog>
+    <dialog id="dialog-winners" class="dialog">
+      <div class="dialog-wrapper">
+        <div class="dialog-container">
+          <h2>
+            Gelukt! Kies nu je eindwinnaars voor de gele-, groene- en bolletjes
+            trui.
+          </h2>
+          <p>
+            In de rechter kolom kun je een renner uitzoeken en aanklikken. Deze
+            renner komt dan in de linker kolom te staan. Je kunt zoeken op voor-
+            en/of achternaam.
+          </p>
+          <button id="dialog-winners-btn">Ga verder</button>
+        </div>
+      </div>
+    </dialog>
+
     <!-- Modal -->
     <section class="modal hidden">
       <h1 id="modal-header"></h1>
@@ -84,7 +110,7 @@
 
     <!-- Kieslijst -->
 
-    <main class="main">
+    <div class="main">
       <section
         id="rider-list-container"
         class="hidden list-container margin-top"
@@ -168,6 +194,6 @@
           Lijst insturen!
         </button>
       </section>
-    </main>
+    </div>
   </body>
 </html>

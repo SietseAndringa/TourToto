@@ -57,15 +57,16 @@ const uitvallersButton = document.querySelector("#uitvallers-button");
 // Api:
 
 const API = new FetchWrapper(
-  "https://firestore.googleapis.com/v1/projects/ljo-sietse-andringa/databases/(default)/documents/tourtoto-deelnemers"
+  "https://tourtoto-data-default-rtdb.firebaseio.com/players.json"
 );
 
-API.get("/").then((data) => {
-  data.documents.forEach((item) => {
+API.get("").then((data) => {
+  Object.values(data).forEach((item) => {
+    console.log(item);
     deelnemers.insertAdjacentHTML(
       "beforeend",
       `
-      <li>${item.fields.name.stringValue}</li>
+      <li>${item.playerInfo.name}</li>
       `
     );
   });
@@ -87,6 +88,7 @@ riders.forEach((rider) => {
 function toggleRules() {
   greetingContainer.classList.toggle("hidden");
   uitleg.classList.toggle("hidden");
+  window.scrollTo(0, 0);
 }
 
 uitlegButton.addEventListener("click", toggleRules);
