@@ -62,11 +62,10 @@ const API = new FetchWrapper(
 
 API.get("").then((data) => {
   Object.values(data).forEach((item) => {
-    console.log(item);
     deelnemers.insertAdjacentHTML(
       "beforeend",
       `
-      <li>${item.playerInfo.name}</li>
+      <li class="player-joined">${item.playerInfo.name}</li>
       `
     );
   });
@@ -84,23 +83,6 @@ riders.forEach((rider) => {
     );
   }
 });
-
-function toggleRules() {
-  greetingContainer.classList.toggle("hidden");
-  uitleg.classList.toggle("hidden");
-  window.scrollTo(0, 0);
-}
-
-uitlegButton.addEventListener("click", toggleRules);
-closeButton.addEventListener("click", toggleRules);
-
-function togglePay() {
-  greetingContainer.classList.toggle("hidden");
-  betalen.classList.toggle("hidden");
-}
-
-betaalButton.addEventListener("click", togglePay);
-closeButton2.addEventListener("click", togglePay);
 
 function toggleOutCourse() {
   greetingContainer.classList.toggle("hidden");

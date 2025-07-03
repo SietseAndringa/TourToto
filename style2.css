@@ -6,6 +6,7 @@ body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: clamp(0.9rem, 1.5vw, 1.1rem);
   line-height: 1.5;
+  margin: 0;
 }
 
 h1 {
@@ -20,6 +21,7 @@ h2 {
   max-width: 700px;
   margin-left: auto;
   margin-right: auto;
+  padding: 7px;
 }
 
 ul {
@@ -28,18 +30,45 @@ ul {
   padding: 0;
 }
 
+a {
+  all: unset;
+}
+
+.player-joined {
+  font-weight: 500;
+}
+
+.title-background {
+  background-color: rgb(41, 41, 41);
+  position: sticky;
+  top: 0;
+  display: flex;
+  justify-content: center;
+}
+
 .title-container img {
   width: 15%;
-  height: 15%;
+  height: auto;
+  max-width: 80px;
 }
 
 .title-container {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  width: 100%;
+  max-width: 700px;
+  padding-inline: 7px;
 }
 
-button {
+.title-container h1 {
+  color: white;
+  margin-block: 15px;
+}
+
+button,
+.button {
+  all: unset;
   max-height: fit-content;
   display: inline-block;
   cursor: pointer;
@@ -48,14 +77,15 @@ button {
   border-radius: 10px;
   border-style: none;
   font-weight: bold;
-  font-size: medium;
+  font-size: 0.9rem;
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.5), 0 2px 2px 0 rgba(0, 0, 0, 0.5);
 }
 
 .button-green {
   background-color: rgb(130, 255, 130);
 }
 
-.button-gray {
+.button-blue {
   background-color: rgb(65, 71, 155);
   color: white;
 }
@@ -68,14 +98,13 @@ button {
   background-color: tomato;
 }
 
-.width-full {
+.button-container {
   width: 100%;
-}
-
-.btn-center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+  display: flex;
+  justify-content: space-around;
+  min-height: 70px;
+  flex-wrap: wrap;
+  gap: 10px;
 }
 
 input {
@@ -119,23 +148,19 @@ input {
   width: 100%;
 }
 
+#deelnemers-container h3 {
+  text-decoration: underline;
+}
+
 .betalen {
   text-align: center;
   margin-top: 2rem;
 }
 
-.betalen a {
-  display: inline-block;
-  background-color: rgb(255, 208, 0);
-  padding: 1rem;
-  width: fit-content;
-  margin-left: auto;
-  margin-right: auto;
-}
 .betalen img {
-  margin-top: 1rem;
-  width: 50%;
-  height: 50%;
+  margin-block: 1rem;
+  width: 200px;
+  height: 200px;
 }
 
 .riders-out {
@@ -154,4 +179,15 @@ input {
   text-align: center;
   padding-right: 15%;
   text-decoration: underline;
+}
+
+#uitleg h2 {
+  text-align: center;
+  text-decoration: underline;
+}
+
+.center-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
 }

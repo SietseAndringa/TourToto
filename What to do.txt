@@ -1,0 +1,6 @@
+- modal stylen
+- lijst vernieuwen na klikken op renner
+- shirtjes toevoegen lijst
+- Api error handling (catch)
+
+addwinnertolist checken
