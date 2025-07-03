@@ -60,7 +60,7 @@ const riders = [
     name: "VINGEGAARD Jonas ",
     team: "Team Visma | Lease a Bike",
     inCourse: true,
-    shirt: "shirts",
+    shirt: "shirts\\team-visma-lease-a-bike-2025-n2.png",
   },
   {
     id: 12,
