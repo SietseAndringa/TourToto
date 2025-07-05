@@ -360,7 +360,7 @@ const riders = [
     id: 64,
     name: "GANNA Filippo ",
     team: "INEOS Grenadiers",
-    inCourse: true,
+    inCourse: false,
     shirt: "shirts\\ineos-grenadiers-2025.png",
   },
   {
@@ -864,7 +864,7 @@ const riders = [
     id: 154,
     name: "BISSEGGER Stefan ",
     team: "Decathlon AG2R La Mondiale Team",
-    inCourse: true,
+    inCourse: false,
     shirt: "shirts\\decathlon-ag2r-la-mondiale-2025.png",
   },
   {
