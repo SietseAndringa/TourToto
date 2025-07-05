@@ -10,19 +10,31 @@ function renderFullList(riders) {
       list.insertAdjacentHTML(
         "beforeend",
         `<li class="li-rider" id=${rider.id}>
+        <div class="rider-name-wrapper">
+          <span>${rider.id}</span>
           <h4>${rider.name}</h4>
+        </div>
+        <div class="team-wrapper">
+          <img src=${rider.shirt} height=25 width=25 alt="">
           <h5>${rider.team}</h5>
-          <h5 class="in-course">Nog in koers</h5>
-          </li>`
+        </div>
+        <h5 class="in-course">Nog in koers</h5>
+      </li>`
       );
     } else {
       list.insertAdjacentHTML(
         "beforeend",
         `<li class="li-rider" id=${rider.id}>
+        <div class="rider-name-wrapper">
+          <span>${rider.id}</span>
           <h4>${rider.name}</h4>
+        </div>
+        <div class="team-wrapper">
+          <img src=${rider.shirt} height=25 width=25 alt="">
           <h5>${rider.team}</h5>
-          <h5 class="out-course">Uitgevallen</h5>
-          </li>`
+        </div>
+        <h5 class="out-course">Uitgevallen</h5>
+      </li>`
       );
     }
   });

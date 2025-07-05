@@ -131,6 +131,13 @@ header {
   border: 2px solid #333399;
 }
 
+.list-container-to-right {
+  order: 2;
+  width: 60%;
+  height: 100%;
+  border: 2px solid #333399;
+}
+
 .search-container {
   border-bottom: 2px solid #333399;
   border-radius: 0;

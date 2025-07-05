@@ -1,0 +1,2806 @@
+{
+  "-OUFAY7w1rkvpB58e4Bn": {
+    "green": {
+      "id": "105",
+      "name": "PHILIPSEN Jasper "
+    },
+    "playerInfo": {
+      "city": "Minnertsga ",
+      "mail": "Ludyenklaske@hotmail.com",
+      "name": "Ludy Meersma ",
+      "phone": "0653923968"
+    },
+    "polka": {
+      "id": "1",
+      "name": "POGAČAR Tadej "
+    },
+    "reserveRidersArray": [
+      {
+        "id": "94",
+        "name": "GRÉGOIRE Romain "
+      },
+      {
+        "id": "72",
+        "name": "LIPOWITZ Florian "
+      },
+      {
+        "id": "16",
+        "name": "KUSS Sepp "
+      },
+      {
+        "id": "124",
+        "name": "GROENEWEGEN Dylan "
+      },
+      {
+        "id": "8",
+        "name": "YATES Adam "
+      },
+      {
+        "id": "81",
+        "name": "SKJELMOSE Mattias "
+      }
+    ],
+    "selectedRidersArray": [
+      {
+        "id": "1",
+        "name": "POGAČAR Tadej "
+      },
+      {
+        "id": "83",
+        "name": "MILAN Jonathan "
+      },
+      {
+        "id": "2",
+        "name": "ALMEIDA João "
+      },
+      {
+        "id": "24",
+        "name": "MERLIER Tim "
+      },
+      {
+        "id": "17",
+        "name": "VAN AERT Wout "
+      },
+      {
+        "id": "41",
+        "name": "GIRMAY Biniam "
+      },
+      {
+        "id": "11",
+        "name": "VINGEGAARD Jonas "
+      },
+      {
+        "id": "21",
+        "name": "EVENEPOEL Remco "
+      },
+      {
+        "id": "141",
+        "name": "MAS Enric "
+      },
+      {
+        "id": "101",
+        "name": "VAN DER POEL Mathieu "
+      },
+      {
+        "id": "15",
+        "name": "JORGENSON Matteo "
+      },
+      {
+        "id": "71",
+        "name": "ROGLIČ Primož "
+      },
+      {
+        "id": "61",
+        "name": "RODRÍGUEZ Carlos "
+      },
+      {
+        "id": "105",
+        "name": "PHILIPSEN Jasper "
+      },
+      {
+        "id": "151",
+        "name": "GALL Felix "
+      }
+    ],
+    "winners": {
+      "green": "PHILIPSEN Jasper ",
+      "polka": "POGAČAR Tadej ",
+      "yellow": "POGAČAR Tadej "
+    },
+    "yellow": {
+      "id": "1",
+      "name": "POGAČAR Tadej "
+    }
+  },
+  "-OUFV48nfclH6Ky2n4tB": {
+    "green": {
+      "id": "21",
+      "name": "EVENEPOEL Remco "
+    },
+    "playerInfo": {
+      "city": "Huizen",
+      "mail": "ejnhuizen@gmail.com",
+      "name": "Elt Nieuwenhuizen",
+      "phone": "0644990363"
+    },
+    "polka": {
+      "id": "2",
+      "name": "ALMEIDA João "
+    },
+    "reserveRidersArray": [
+      {
+        "id": "105",
+        "name": "PHILIPSEN Jasper "
+      },
+      {
+        "id": "83",
+        "name": "MILAN Jonathan "
+      },
+      {
+        "id": "41",
+        "name": "GIRMAY Biniam "
+      },
+      {
+        "id": "64",
+        "name": "GANNA Filippo "
+      },
+      {
+        "id": "124",
+        "name": "GROENEWEGEN Dylan "
+      },
+      {
+        "id": "141",
+        "name": "MAS Enric "
+      },
+      {
+        "id": "32",
+        "name": "ASGREEN Kasper "
+      }
+    ],
+    "selectedRidersArray": [
+      {
+        "id": "1",
+        "name": "POGAČAR Tadej "
+      },
+      {
+        "id": "11",
+        "name": "VINGEGAARD Jonas "
+      },
+      {
+        "id": "71",
+        "name": "ROGLIČ Primož "
+      },
+      {
+        "id": "21",
+        "name": "EVENEPOEL Remco "
+      },
+      {
+        "id": "15",
+        "name": "JORGENSON Matteo "
+      },
+      {
+        "id": "2",
+        "name": "ALMEIDA João "
+      },
+      {
+        "id": "17",
+        "name": "VAN AERT Wout "
+      },
+      {
+        "id": "101",
+        "name": "VAN DER POEL Mathieu "
+      },
+      {
+        "id": "55",
+        "name": "MARTINEZ Lenny "
+      },
+      {
+        "id": "14",
+        "name": "BENOOT Tiesj "
+      },
+      {
+        "id": "18",
+        "name": "YATES Simon "
+      },
+      {
+        "id": "8",
+        "name": "YATES Adam "
+      },
+      {
+        "id": "151",
+        "name": "GALL Felix "
+      },
+      {
+        "id": "76",
+        "name": "VLASOV Aleksandr "
+      },
+      {
+        "id": "62",
+        "name": "ARENSMAN Thymen "
+      }
+    ],
+    "winners": {
+      "green": "EVENEPOEL Remco ",
+      "polka": "ALMEIDA João ",
+      "yellow": "POGAČAR Tadej "
+    },
+    "yellow": {
+      "id": "1",
+      "name": "POGAČAR Tadej "
+    }
+  },
+  "-OUFbfvaVG_cZj-OPhOf": {
+    "green": {
+      "id": "105",
+      "name": "PHILIPSEN Jasper "
+    },
+    "playerInfo": {
+      "city": "Leeuwarden",
+      "mail": "ageanne@live.nl",
+      "name": "Age Anne Posthumus ",
+      "phone": ""
+    },
+    "polka": {
+      "id": "1",
+      "name": "POGAČAR Tadej "
+    },
+    "reserveRidersArray": [
+      {
+        "id": "72",
+        "name": "LIPOWITZ Florian "
+      },
+      {
+        "id": "121",
+        "name": "O'CONNOR Ben "
+      },
+      {
+        "id": "103",
+        "name": "GROVES Kaden "
+      },
+      {
+        "id": "134",
+        "name": "DÉMARE Arnaud "
+      },
+      {
+        "id": "141",
+        "name": "MAS Enric "
+      },
+      {
+        "id": "202",
+        "name": "ACKERMANN Pascal "
+      },
+      {
+        "id": "15",
+        "name": "JORGENSON Matteo "
+      }
+    ],
+    "selectedRidersArray": [
+      {
+        "id": "1",
+        "name": "POGAČAR Tadej "
+      },
+      {
+        "id": "2",
+        "name": "ALMEIDA João "
+      },
+      {
+        "id": "11",
+        "name": "VINGEGAARD Jonas "
+      },
+      {
+        "id": "21",
+        "name": "EVENEPOEL Remco "
+      },
+      {
+        "id": "41",
+        "name": "GIRMAY Biniam "
+      },
+      {
+        "id": "61",
+        "name": "RODRÍGUEZ Carlos "
+      },
+      {
+        "id": "71",
+        "name": "ROGLIČ Primož "
+      },
+      {
+        "id": "83",
+        "name": "MILAN Jonathan "
+      },
+      {
+        "id": "81",
+        "name": "SKJELMOSE Mattias "
+      },
+      {
+        "id": "101",
+        "name": "VAN DER POEL Mathieu "
+      },
+      {
+        "id": "105",
+        "name": "PHILIPSEN Jasper "
+      },
+      {
+        "id": "124",
+        "name": "GROENEWEGEN Dylan "
+      },
+      {
+        "id": "17",
+        "name": "VAN AERT Wout "
+      },
+      {
+        "id": "24",
+        "name": "MERLIER Tim "
+      },
+      {
+        "id": "214",
+        "name": "DE LIE Arnaud "
+      }
+    ],
+    "winners": {
+      "green": "PHILIPSEN Jasper ",
+      "polka": "POGAČAR Tadej ",
+      "yellow": "POGAČAR Tadej "
+    },
+    "yellow": {
+      "id": "1",
+      "name": "POGAČAR Tadej "
+    }
+  },
+  "-OUFndjhOcViur1BaVmS": {
+    "green": {
+      "id": "41",
+      "name": "GIRMAY Biniam "
+    },
+    "playerInfo": {
+      "city": "HERKENBOSCH",
+      "mail": "barend.brock@outlook.com",
+      "name": "Barend Brock ",
+      "phone": "0629139016"
+    },
+    "polka": {
+      "id": "1",
+      "name": "POGAČAR Tadej "
+    },
+    "reserveRidersArray": [
+      {
+        "id": "141",
+        "name": "MAS Enric "
+      },
+      {
+        "id": "124",
+        "name": "GROENEWEGEN Dylan "
+      },
+      {
+        "id": "151",
+        "name": "GALL Felix "
+      },
+      {
+        "id": "73",
+        "name": "MEEUS Jordi "
+      },
+      {
+        "id": "51",
+        "name": "BUITRAGO Santiago "
+      },
+      {
+        "id": "23",
+        "name": "EENKHOORN Pascal "
+      },
+      {
+        "id": "55",
+        "name": "MARTINEZ Lenny "
+      }
+    ],
+    "selectedRidersArray": [
+      {
+        "id": "1",
+        "name": "POGAČAR Tadej "
+      },
+      {
+        "id": "11",
+        "name": "VINGEGAARD Jonas "
+      },
+      {
+        "id": "24",
+        "name": "MERLIER Tim "
+      },
+      {
+        "id": "83",
+        "name": "MILAN Jonathan "
+      },
+      {
+        "id": "41",
+        "name": "GIRMAY Biniam "
+      },
+      {
+        "id": "223",
+        "name": "CORT Magnus "
+      },
+      {
+        "id": "211",
+        "name": "VAN EETVELT Lennert "
+      },
+      {
+        "id": "72",
+        "name": "LIPOWITZ Florian "
+      },
+      {
+        "id": "17",
+        "name": "VAN AERT Wout "
+      },
+      {
+        "id": "34",
+        "name": "HEALY Ben "
+      },
+      {
+        "id": "105",
+        "name": "PHILIPSEN Jasper "
+      },
+      {
+        "id": "163",
+        "name": "COQUARD Bryan "
+      },
+      {
+        "id": "21",
+        "name": "EVENEPOEL Remco "
+      },
+      {
+        "id": "214",
+        "name": "DE LIE Arnaud "
+      },
+      {
+        "id": "61",
+        "name": "RODRÍGUEZ Carlos "
+      }
+    ],
+    "winners": {
+      "green": "GIRMAY Biniam ",
+      "polka": "POGAČAR Tadej ",
+      "yellow": "POGAČAR Tadej "
+    },
+    "yellow": {
+      "id": "1",
+      "name": "POGAČAR Tadej "
+    }
+  },
+  "-OUGNNmm4puoCeiZ6ycN": {
+    "green": {
+      "id": "83",
+      "name": "MILAN Jonathan "
+    },
+    "playerInfo": {
+      "city": "Leeuwarden",
+      "mail": "marten.andringa@gmail.com",
+      "name": "Marten Andringa",
+      "phone": "06-11462877"
+    },
+    "polka": {
+      "id": "1",
+      "name": "POGAČAR Tadej "
+    },
+    "reserveRidersArray": [
+      {
+        "id": "41",
+        "name": "GIRMAY Biniam "
+      },
+      {
+        "id": "81",
+        "name": "SKJELMOSE Mattias "
+      },
+      {
+        "id": "71",
+        "name": "ROGLIČ Primož "
+      },
+      {
+        "id": "101",
+        "name": "VAN DER POEL Mathieu "
+      },
+      {
+        "id": "17",
+        "name": "VAN AERT Wout "
+      },
+      {
+        "id": "124",
+        "name": "GROENEWEGEN Dylan "
+      },
+      {
+        "id": "64",
+        "name": "GANNA Filippo "
+      }
+    ],
+    "selectedRidersArray": [
+      {
+        "id": "1",
+        "name": "POGAČAR Tadej "
+      },
+      {
+        "id": "11",
+        "name": "VINGEGAARD Jonas "
+      },
+      {
+        "id": "15",
+        "name": "JORGENSON Matteo "
+      },
+      {
+        "id": "21",
+        "name": "EVENEPOEL Remco "
+      },
+      {
+        "id": "24",
+        "name": "MERLIER Tim "
+      },
+      {
+        "id": "55",
+        "name": "MARTINEZ Lenny "
+      },
+      {
+        "id": "72",
+        "name": "LIPOWITZ Florian "
+      },
+      {
+        "id": "83",
+        "name": "MILAN Jonathan "
+      },
+      {
+        "id": "131",
+        "name": "VAUQUELIN Kévin "
+      },
+      {
+        "id": "151",
+        "name": "GALL Felix "
+      },
+      {
+        "id": "191",
+        "name": "ONLEY Oscar "
+      },
+      {
+        "id": "2",
+        "name": "ALMEIDA João "
+      },
+      {
+        "id": "73",
+        "name": "MEEUS Jordi "
+      },
+      {
+        "id": "105",
+        "name": "PHILIPSEN Jasper "
+      },
+      {
+        "id": "141",
+        "name": "MAS Enric "
+      }
+    ],
+    "winners": {
+      "green": "MILAN Jonathan ",
+      "polka": "POGAČAR Tadej ",
+      "yellow": "POGAČAR Tadej "
+    },
+    "yellow": {
+      "id": "1",
+      "name": "POGAČAR Tadej "
+    }
+  },
+  "-OUGyq0tDDgpGWmIY55z": {
+    "green": {
+      "id": "105",
+      "name": "PHILIPSEN Jasper "
+    },
+    "playerInfo": {
+      "city": "Minnertsga ",
+      "mail": "sverreandringa21@icloud.com",
+      "name": "Sverre Andringa ",
+      "phone": ""
+    },
+    "polka": {
+      "id": "1",
+      "name": "POGAČAR Tadej "
+    },
+    "reserveRidersArray": [
+      {
+        "id": "55",
+        "name": "MARTINEZ Lenny "
+      },
+      {
+        "id": "61",
+        "name": "RODRÍGUEZ Carlos "
+      },
+      {
+        "id": "124",
+        "name": "GROENEWEGEN Dylan "
+      },
+      {
+        "id": "151",
+        "name": "GALL Felix "
+      },
+      {
+        "id": "81",
+        "name": "SKJELMOSE Mattias "
+      },
+      {
+        "id": "8",
+        "name": "YATES Adam "
+      },
+      {
+        "id": "101",
+        "name": "VAN DER POEL Mathieu "
+      }
+    ],
+    "selectedRidersArray": [
+      {
+        "id": "1",
+        "name": "POGAČAR Tadej "
+      },
+      {
+        "id": "11",
+        "name": "VINGEGAARD Jonas "
+      },
+      {
+        "id": "21",
+        "name": "EVENEPOEL Remco "
+      },
+      {
+        "id": "2",
+        "name": "ALMEIDA João "
+      },
+      {
+        "id": "72",
+        "name": "LIPOWITZ Florian "
+      },
+      {
+        "id": "15",
+        "name": "JORGENSON Matteo "
+      },
+      {
+        "id": "18",
+        "name": "YATES Simon "
+      },
+      {
+        "id": "141",
+        "name": "MAS Enric "
+      },
+      {
+        "id": "71",
+        "name": "ROGLIČ Primož "
+      },
+      {
+        "id": "83",
+        "name": "MILAN Jonathan "
+      },
+      {
+        "id": "105",
+        "name": "PHILIPSEN Jasper "
+      },
+      {
+        "id": "24",
+        "name": "MERLIER Tim "
+      },
+      {
+        "id": "17",
+        "name": "VAN AERT Wout "
+      },
+      {
+        "id": "186",
+        "name": "JEANNIÈRE Emilien "
+      },
+      {
+        "id": "41",
+        "name": "GIRMAY Biniam "
+      }
+    ],
+    "winners": {
+      "green": "PHILIPSEN Jasper ",
+      "polka": "POGAČAR Tadej ",
+      "yellow": "POGAČAR Tadej "
+    },
+    "yellow": {
+      "id": "1",
+      "name": "POGAČAR Tadej "
+    }
+  },
+  "-OUHCmu35vsNxQUMZsGv": {
+    "green": {
+      "id": "83",
+      "name": "MILAN Jonathan "
+    },
+    "playerInfo": {
+      "city": "Leeuwarden",
+      "mail": "bos_rene@live.nl",
+      "name": "Rene Bos",
+      "phone": ""
+    },
+    "polka": {
+      "id": "1",
+      "name": "POGAČAR Tadej "
+    },
+    "reserveRidersArray": [
+      {
+        "id": "71",
+        "name": "ROGLIČ Primož "
+      },
+      {
+        "id": "61",
+        "name": "RODRÍGUEZ Carlos "
+      },
+      {
+        "id": "35",
+        "name": "POWLESS Neilson "
+      },
+      {
+        "id": "73",
+        "name": "MEEUS Jordi "
+      },
+      {
+        "id": "17",
+        "name": "VAN AERT Wout "
+      },
+      {
+        "id": "41",
+        "name": "GIRMAY Biniam "
+      },
+      {
+        "id": "124",
+        "name": "GROENEWEGEN Dylan "
+      }
+    ],
+    "selectedRidersArray": [
+      {
+        "id": "1",
+        "name": "POGAČAR Tadej "
+      },
+      {
+        "id": "11",
+        "name": "VINGEGAARD Jonas "
+      },
+      {
+        "id": "21",
+        "name": "EVENEPOEL Remco "
+      },
+      {
+        "id": "72",
+        "name": "LIPOWITZ Florian "
+      },
+      {
+        "id": "83",
+        "name": "MILAN Jonathan "
+      },
+      {
+        "id": "105",
+        "name": "PHILIPSEN Jasper "
+      },
+      {
+        "id": "186",
+        "name": "JEANNIÈRE Emilien "
+      },
+      {
+        "id": "24",
+        "name": "MERLIER Tim "
+      },
+      {
+        "id": "64",
+        "name": "GANNA Filippo "
+      },
+      {
+        "id": "101",
+        "name": "VAN DER POEL Mathieu "
+      },
+      {
+        "id": "147",
+        "name": "ROMEO Iván "
+      },
+      {
+        "id": "15",
+        "name": "JORGENSON Matteo "
+      },
+      {
+        "id": "208",
+        "name": "STEWART Jake "
+      },
+      {
+        "id": "151",
+        "name": "GALL Felix "
+      },
+      {
+        "id": "191",
+        "name": "ONLEY Oscar "
+      }
+    ],
+    "winners": {
+      "green": "MILAN Jonathan ",
+      "polka": "POGAČAR Tadej ",
+      "yellow": "POGAČAR Tadej "
+    },
+    "yellow": {
+      "id": "1",
+      "name": "POGAČAR Tadej "
+    }
+  },
+  "-OUHMNL6wZWqvtr5SjYO": {
+    "green": {
+      "id": "105",
+      "name": "PHILIPSEN Jasper "
+    },
+    "playerInfo": {
+      "city": "Minnertsga",
+      "mail": "geert_andringa@hotmail.com",
+      "name": "Geert Andringa",
+      "phone": "0612223494"
+    },
+    "polka": {
+      "id": "1",
+      "name": "POGAČAR Tadej "
+    },
+    "reserveRidersArray": [
+      {
+        "id": "71",
+        "name": "ROGLIČ Primož "
+      },
+      {
+        "id": "163",
+        "name": "COQUARD Bryan "
+      },
+      {
+        "id": "64",
+        "name": "GANNA Filippo "
+      },
+      {
+        "id": "15",
+        "name": "JORGENSON Matteo "
+      },
+      {
+        "id": "55",
+        "name": "MARTINEZ Lenny "
+      },
+      {
+        "id": "191",
+        "name": "ONLEY Oscar "
+      },
+      {
+        "id": "52",
+        "name": "BAUHAUS Phil "
+      }
+    ],
+    "selectedRidersArray": [
+      {
+        "id": "1",
+        "name": "POGAČAR Tadej "
+      },
+      {
+        "id": "2",
+        "name": "ALMEIDA João "
+      },
+      {
+        "id": "11",
+        "name": "VINGEGAARD Jonas "
+      },
+      {
+        "id": "17",
+        "name": "VAN AERT Wout "
+      },
+      {
+        "id": "21",
+        "name": "EVENEPOEL Remco "
+      },
+      {
+        "id": "24",
+        "name": "MERLIER Tim "
+      },
+      {
+        "id": "41",
+        "name": "GIRMAY Biniam "
+      },
+      {
+        "id": "51",
+        "name": "BUITRAGO Santiago "
+      },
+      {
+        "id": "72",
+        "name": "LIPOWITZ Florian "
+      },
+      {
+        "id": "81",
+        "name": "SKJELMOSE Mattias "
+      },
+      {
+        "id": "101",
+        "name": "VAN DER POEL Mathieu "
+      },
+      {
+        "id": "105",
+        "name": "PHILIPSEN Jasper "
+      },
+      {
+        "id": "131",
+        "name": "VAUQUELIN Kévin "
+      },
+      {
+        "id": "186",
+        "name": "JEANNIÈRE Emilien "
+      },
+      {
+        "id": "83",
+        "name": "MILAN Jonathan "
+      }
+    ],
+    "winners": {
+      "green": "PHILIPSEN Jasper ",
+      "polka": "POGAČAR Tadej ",
+      "yellow": "POGAČAR Tadej "
+    },
+    "yellow": {
+      "id": "1",
+      "name": "POGAČAR Tadej "
+    }
+  },
+  "-OUJ7pvJxJHwGgB_NMQq": {
+    "green": {
+      "id": "41",
+      "name": "GIRMAY Biniam "
+    },
+    "playerInfo": {
+      "city": "Aldeboarn",
+      "mail": "socrates45@dds.nl",
+      "name": "Diûwerd Kramer",
+      "phone": "0644988612"
+    },
+    "polka": {
+      "id": "1",
+      "name": "POGAČAR Tadej "
+    },
+    "reserveRidersArray": [
+      {
+        "id": "24",
+        "name": "MERLIER Tim "
+      },
+      {
+        "id": "73",
+        "name": "MEEUS Jordi "
+      },
+      {
+        "id": "124",
+        "name": "GROENEWEGEN Dylan "
+      },
+      {
+        "id": "192",
+        "name": "ANDRESEN Tobias Lund "
+      },
+      {
+        "id": "81",
+        "name": "SKJELMOSE Mattias "
+      },
+      {
+        "id": "191",
+        "name": "ONLEY Oscar "
+      },
+      {
+        "id": "131",
+        "name": "VAUQUELIN Kévin "
+      }
+    ],
+    "selectedRidersArray": [
+      {
+        "id": "1",
+        "name": "POGAČAR Tadej "
+      },
+      {
+        "id": "11",
+        "name": "VINGEGAARD Jonas "
+      },
+      {
+        "id": "71",
+        "name": "ROGLIČ Primož "
+      },
+      {
+        "id": "105",
+        "name": "PHILIPSEN Jasper "
+      },
+      {
+        "id": "41",
+        "name": "GIRMAY Biniam "
+      },
+      {
+        "id": "214",
+        "name": "DE LIE Arnaud "
+      },
+      {
+        "id": "21",
+        "name": "EVENEPOEL Remco "
+      },
+      {
+        "id": "2",
+        "name": "ALMEIDA João "
+      },
+      {
+        "id": "15",
+        "name": "JORGENSON Matteo "
+      },
+      {
+        "id": "17",
+        "name": "VAN AERT Wout "
+      },
+      {
+        "id": "101",
+        "name": "VAN DER POEL Mathieu "
+      },
+      {
+        "id": "78",
+        "name": "VAN POPPEL Danny "
+      },
+      {
+        "id": "117",
+        "name": "STORER Michael "
+      },
+      {
+        "id": "33",
+        "name": "BAUDIN Alex "
+      },
+      {
+        "id": "55",
+        "name": "MARTINEZ Lenny "
+      }
+    ],
+    "winners": {
+      "green": "GIRMAY Biniam ",
+      "polka": "POGAČAR Tadej ",
+      "yellow": "POGAČAR Tadej "
+    },
+    "yellow": {
+      "id": "1",
+      "name": "POGAČAR Tadej "
+    }
+  },
+  "-OUJECZIQXkikv2REoAH": {
+    "green": {
+      "id": "101",
+      "name": "VAN DER POEL Mathieu "
+    },
+    "playerInfo": {
+      "city": "Ljouwert",
+      "mail": "harmhester7@gmail.com",
+      "name": "Harm Andringa",
+      "phone": "0649838183"
+    },
+    "polka": {
+      "id": "1",
+      "name": "POGAČAR Tadej "
+    },
+    "reserveRidersArray": [
+      {
+        "id": "221",
+        "name": "JOHANNESSEN Tobias Halland "
+      },
+      {
+        "id": "124",
+        "name": "GROENEWEGEN Dylan "
+      },
+      {
+        "id": "64",
+        "name": "GANNA Filippo "
+      },
+      {
+        "id": "131",
+        "name": "VAUQUELIN Kévin "
+      },
+      {
+        "id": "15",
+        "name": "JORGENSON Matteo "
+      },
+      {
+        "id": "55",
+        "name": "MARTINEZ Lenny "
+      },
+      {
+        "id": "31",
+        "name": "ALBANESE Vincenzo "
+      }
+    ],
+    "selectedRidersArray": [
+      {
+        "id": "1",
+        "name": "POGAČAR Tadej "
+      },
+      {
+        "id": "2",
+        "name": "ALMEIDA João "
+      },
+      {
+        "id": "11",
+        "name": "VINGEGAARD Jonas "
+      },
+      {
+        "id": "21",
+        "name": "EVENEPOEL Remco "
+      },
+      {
+        "id": "41",
+        "name": "GIRMAY Biniam "
+      },
+      {
+        "id": "61",
+        "name": "RODRÍGUEZ Carlos "
+      },
+      {
+        "id": "71",
+        "name": "ROGLIČ Primož "
+      },
+      {
+        "id": "72",
+        "name": "LIPOWITZ Florian "
+      },
+      {
+        "id": "81",
+        "name": "SKJELMOSE Mattias "
+      },
+      {
+        "id": "83",
+        "name": "MILAN Jonathan "
+      },
+      {
+        "id": "101",
+        "name": "VAN DER POEL Mathieu "
+      },
+      {
+        "id": "105",
+        "name": "PHILIPSEN Jasper "
+      },
+      {
+        "id": "111",
+        "name": "ALAPHILIPPE Julian "
+      },
+      {
+        "id": "24",
+        "name": "MERLIER Tim "
+      },
+      {
+        "id": "17",
+        "name": "VAN AERT Wout "
+      }
+    ],
+    "winners": {
+      "green": "VAN DER POEL Mathieu ",
+      "polka": "POGAČAR Tadej ",
+      "yellow": "POGAČAR Tadej "
+    },
+    "yellow": {
+      "id": "1",
+      "name": "POGAČAR Tadej "
+    }
+  },
+  "-OUJEsUtPSCx0hiw3g7F": {
+    "green": {
+      "id": "105",
+      "name": "PHILIPSEN Jasper "
+    },
+    "playerInfo": {
+      "city": "Leeuwarden",
+      "mail": "deviervoeter@hotmail.com",
+      "name": "Marije Nieuwenhuizen",
+      "phone": "0653151932"
+    },
+    "polka": {
+      "id": "1",
+      "name": "POGAČAR Tadej "
+    },
+    "reserveRidersArray": [
+      {
+        "id": "131",
+        "name": "VAUQUELIN Kévin "
+      },
+      {
+        "id": "151",
+        "name": "GALL Felix "
+      },
+      {
+        "id": "101",
+        "name": "VAN DER POEL Mathieu "
+      },
+      {
+        "id": "71",
+        "name": "ROGLIČ Primož "
+      },
+      {
+        "id": "41",
+        "name": "GIRMAY Biniam "
+      },
+      {
+        "id": "83",
+        "name": "MILAN Jonathan "
+      },
+      {
+        "id": "81",
+        "name": "SKJELMOSE Mattias "
+      }
+    ],
+    "selectedRidersArray": [
+      {
+        "id": "11",
+        "name": "VINGEGAARD Jonas "
+      },
+      {
+        "id": "17",
+        "name": "VAN AERT Wout "
+      },
+      {
+        "id": "8",
+        "name": "YATES Adam "
+      },
+      {
+        "id": "18",
+        "name": "YATES Simon "
+      },
+      {
+        "id": "16",
+        "name": "KUSS Sepp "
+      },
+      {
+        "id": "1",
+        "name": "POGAČAR Tadej "
+      },
+      {
+        "id": "2",
+        "name": "ALMEIDA João "
+      },
+      {
+        "id": "15",
+        "name": "JORGENSON Matteo "
+      },
+      {
+        "id": "105",
+        "name": "PHILIPSEN Jasper "
+      },
+      {
+        "id": "24",
+        "name": "MERLIER Tim "
+      },
+      {
+        "id": "72",
+        "name": "LIPOWITZ Florian "
+      },
+      {
+        "id": "21",
+        "name": "EVENEPOEL Remco "
+      },
+      {
+        "id": "55",
+        "name": "MARTINEZ Lenny "
+      },
+      {
+        "id": "141",
+        "name": "MAS Enric "
+      },
+      {
+        "id": "61",
+        "name": "RODRÍGUEZ Carlos "
+      }
+    ],
+    "winners": {
+      "green": "PHILIPSEN Jasper ",
+      "polka": "POGAČAR Tadej ",
+      "yellow": "POGAČAR Tadej "
+    },
+    "yellow": {
+      "id": "1",
+      "name": "POGAČAR Tadej "
+    }
+  },
+  "-OUJTkQMVnQOjBTIiJyP": {
+    "green": {
+      "id": "24",
+      "name": "MERLIER Tim "
+    },
+    "playerInfo": {
+      "city": "Herkenbosch",
+      "mail": "robijnandringa@gmail.com",
+      "name": "Robijn Andringa",
+      "phone": "0624185911"
+    },
+    "polka": {
+      "id": "1",
+      "name": "POGAČAR Tadej "
+    },
+    "reserveRidersArray": [
+      {
+        "id": "2",
+        "name": "ALMEIDA João "
+      },
+      {
+        "id": "141",
+        "name": "MAS Enric "
+      },
+      {
+        "id": "192",
+        "name": "ANDRESEN Tobias Lund "
+      },
+      {
+        "id": "61",
+        "name": "RODRÍGUEZ Carlos "
+      },
+      {
+        "id": "105",
+        "name": "PHILIPSEN Jasper "
+      },
+      {
+        "id": "208",
+        "name": "STEWART Jake "
+      },
+      {
+        "id": "64",
+        "name": "GANNA Filippo "
+      }
+    ],
+    "selectedRidersArray": [
+      {
+        "id": "1",
+        "name": "POGAČAR Tadej "
+      },
+      {
+        "id": "11",
+        "name": "VINGEGAARD Jonas "
+      },
+      {
+        "id": "21",
+        "name": "EVENEPOEL Remco "
+      },
+      {
+        "id": "72",
+        "name": "LIPOWITZ Florian "
+      },
+      {
+        "id": "81",
+        "name": "SKJELMOSE Mattias "
+      },
+      {
+        "id": "17",
+        "name": "VAN AERT Wout "
+      },
+      {
+        "id": "101",
+        "name": "VAN DER POEL Mathieu "
+      },
+      {
+        "id": "83",
+        "name": "MILAN Jonathan "
+      },
+      {
+        "id": "111",
+        "name": "ALAPHILIPPE Julian "
+      },
+      {
+        "id": "221",
+        "name": "JOHANNESSEN Tobias Halland "
+      },
+      {
+        "id": "73",
+        "name": "MEEUS Jordi "
+      },
+      {
+        "id": "24",
+        "name": "MERLIER Tim "
+      },
+      {
+        "id": "34",
+        "name": "HEALY Ben "
+      },
+      {
+        "id": "151",
+        "name": "GALL Felix "
+      },
+      {
+        "id": "186",
+        "name": "JEANNIÈRE Emilien "
+      }
+    ],
+    "winners": {
+      "green": "MERLIER Tim ",
+      "polka": "POGAČAR Tadej ",
+      "yellow": "POGAČAR Tadej "
+    },
+    "yellow": {
+      "id": "1",
+      "name": "POGAČAR Tadej "
+    }
+  },
+  "-OUJVyHs6tt5R78tvtY1": {
+    "green": {
+      "id": "105",
+      "name": "PHILIPSEN Jasper "
+    },
+    "playerInfo": {
+      "city": "Nieuw-Vennep",
+      "mail": "chris@jensma.frl",
+      "name": "Chris Jensma",
+      "phone": "0645067813"
+    },
+    "polka": {
+      "id": "1",
+      "name": "POGAČAR Tadej "
+    },
+    "reserveRidersArray": [
+      {
+        "id": "15",
+        "name": "JORGENSON Matteo "
+      },
+      {
+        "id": "151",
+        "name": "GALL Felix "
+      },
+      {
+        "id": "124",
+        "name": "GROENEWEGEN Dylan "
+      },
+      {
+        "id": "131",
+        "name": "VAUQUELIN Kévin "
+      },
+      {
+        "id": "73",
+        "name": "MEEUS Jordi "
+      },
+      {
+        "id": "55",
+        "name": "MARTINEZ Lenny "
+      },
+      {
+        "id": "214",
+        "name": "DE LIE Arnaud "
+      }
+    ],
+    "selectedRidersArray": [
+      {
+        "id": "1",
+        "name": "POGAČAR Tadej "
+      },
+      {
+        "id": "11",
+        "name": "VINGEGAARD Jonas "
+      },
+      {
+        "id": "21",
+        "name": "EVENEPOEL Remco "
+      },
+      {
+        "id": "2",
+        "name": "ALMEIDA João "
+      },
+      {
+        "id": "61",
+        "name": "RODRÍGUEZ Carlos "
+      },
+      {
+        "id": "71",
+        "name": "ROGLIČ Primož "
+      },
+      {
+        "id": "72",
+        "name": "LIPOWITZ Florian "
+      },
+      {
+        "id": "81",
+        "name": "SKJELMOSE Mattias "
+      },
+      {
+        "id": "141",
+        "name": "MAS Enric "
+      },
+      {
+        "id": "24",
+        "name": "MERLIER Tim "
+      },
+      {
+        "id": "83",
+        "name": "MILAN Jonathan "
+      },
+      {
+        "id": "101",
+        "name": "VAN DER POEL Mathieu "
+      },
+      {
+        "id": "105",
+        "name": "PHILIPSEN Jasper "
+      },
+      {
+        "id": "17",
+        "name": "VAN AERT Wout "
+      },
+      {
+        "id": "41",
+        "name": "GIRMAY Biniam "
+      }
+    ],
+    "winners": {
+      "green": "PHILIPSEN Jasper ",
+      "polka": "POGAČAR Tadej ",
+      "yellow": "POGAČAR Tadej "
+    },
+    "yellow": {
+      "id": "1",
+      "name": "POGAČAR Tadej "
+    }
+  },
+  "-OUJm6E9LAsGAfyxjdyL": {
+    "green": {
+      "id": "105",
+      "name": "PHILIPSEN Jasper "
+    },
+    "playerInfo": {
+      "city": "Herkenbosch",
+      "mail": "camiel.andringa@gmail.com",
+      "name": "Camiel Andringa",
+      "phone": "+31 6 19481886"
+    },
+    "polka": {
+      "id": "1",
+      "name": "POGAČAR Tadej "
+    },
+    "reserveRidersArray": [
+      {
+        "id": "121",
+        "name": "O'CONNOR Ben "
+      },
+      {
+        "id": "41",
+        "name": "GIRMAY Biniam "
+      },
+      {
+        "id": "8",
+        "name": "YATES Adam "
+      },
+      {
+        "id": "18",
+        "name": "YATES Simon "
+      },
+      {
+        "id": "24",
+        "name": "MERLIER Tim "
+      },
+      {
+        "id": "22",
+        "name": "CATTANEO Mattia "
+      },
+      {
+        "id": "32",
+        "name": "ASGREEN Kasper "
+      }
+    ],
+    "selectedRidersArray": [
+      {
+        "id": "1",
+        "name": "POGAČAR Tadej "
+      },
+      {
+        "id": "11",
+        "name": "VINGEGAARD Jonas "
+      },
+      {
+        "id": "21",
+        "name": "EVENEPOEL Remco "
+      },
+      {
+        "id": "71",
+        "name": "ROGLIČ Primož "
+      },
+      {
+        "id": "2",
+        "name": "ALMEIDA João "
+      },
+      {
+        "id": "61",
+        "name": "RODRÍGUEZ Carlos "
+      },
+      {
+        "id": "141",
+        "name": "MAS Enric "
+      },
+      {
+        "id": "72",
+        "name": "LIPOWITZ Florian "
+      },
+      {
+        "id": "105",
+        "name": "PHILIPSEN Jasper "
+      },
+      {
+        "id": "55",
+        "name": "MARTINEZ Lenny "
+      },
+      {
+        "id": "151",
+        "name": "GALL Felix "
+      },
+      {
+        "id": "15",
+        "name": "JORGENSON Matteo "
+      },
+      {
+        "id": "17",
+        "name": "VAN AERT Wout "
+      },
+      {
+        "id": "124",
+        "name": "GROENEWEGEN Dylan "
+      },
+      {
+        "id": "131",
+        "name": "VAUQUELIN Kévin "
+      }
+    ],
+    "winners": {
+      "green": "PHILIPSEN Jasper ",
+      "polka": "POGAČAR Tadej ",
+      "yellow": "VINGEGAARD Jonas "
+    },
+    "yellow": {
+      "id": "11",
+      "name": "VINGEGAARD Jonas "
+    }
+  },
+  "-OUKdflmWFGlTH5kgo1-": {
+    "green": {
+      "id": "105",
+      "name": "PHILIPSEN Jasper "
+    },
+    "playerInfo": {
+      "city": "Minnertsga",
+      "mail": "gosse_hoekstra@hotmail.com",
+      "name": "Gosse Hoekstra",
+      "phone": ""
+    },
+    "polka": {
+      "id": "1",
+      "name": "POGAČAR Tadej "
+    },
+    "reserveRidersArray": [
+      {
+        "id": "151",
+        "name": "GALL Felix "
+      },
+      {
+        "id": "84",
+        "name": "NYS Thibau "
+      },
+      {
+        "id": "71",
+        "name": "ROGLIČ Primož "
+      },
+      {
+        "id": "165",
+        "name": "RENARD Alexis "
+      },
+      {
+        "id": "214",
+        "name": "DE LIE Arnaud "
+      },
+      {
+        "id": "15",
+        "name": "JORGENSON Matteo "
+      },
+      {
+        "id": "141",
+        "name": "MAS Enric "
+      }
+    ],
+    "selectedRidersArray": [
+      {
+        "id": "101",
+        "name": "VAN DER POEL Mathieu "
+      },
+      {
+        "id": "24",
+        "name": "MERLIER Tim "
+      },
+      {
+        "id": "83",
+        "name": "MILAN Jonathan "
+      },
+      {
+        "id": "73",
+        "name": "MEEUS Jordi "
+      },
+      {
+        "id": "105",
+        "name": "PHILIPSEN Jasper "
+      },
+      {
+        "id": "55",
+        "name": "MARTINEZ Lenny "
+      },
+      {
+        "id": "1",
+        "name": "POGAČAR Tadej "
+      },
+      {
+        "id": "11",
+        "name": "VINGEGAARD Jonas "
+      },
+      {
+        "id": "21",
+        "name": "EVENEPOEL Remco "
+      },
+      {
+        "id": "2",
+        "name": "ALMEIDA João "
+      },
+      {
+        "id": "72",
+        "name": "LIPOWITZ Florian "
+      },
+      {
+        "id": "61",
+        "name": "RODRÍGUEZ Carlos "
+      },
+      {
+        "id": "131",
+        "name": "VAUQUELIN Kévin "
+      },
+      {
+        "id": "42",
+        "name": "BARRÉ Louis "
+      },
+      {
+        "id": "17",
+        "name": "VAN AERT Wout "
+      }
+    ],
+    "winners": {
+      "green": "PHILIPSEN Jasper ",
+      "polka": "POGAČAR Tadej ",
+      "yellow": "POGAČAR Tadej "
+    },
+    "yellow": {
+      "id": "1",
+      "name": "POGAČAR Tadej "
+    }
+  },
+  "-OUL4wsnwHTYu0_2YOP-": {
+    "green": {
+      "id": "41",
+      "name": "GIRMAY Biniam "
+    },
+    "playerInfo": {
+      "city": "Minnertsga",
+      "mail": "cor@jensma.frl",
+      "name": "Cor Jensma",
+      "phone": "0682485682"
+    },
+    "polka": {
+      "id": "1",
+      "name": "POGAČAR Tadej "
+    },
+    "reserveRidersArray": [
+      {
+        "id": "15",
+        "name": "JORGENSON Matteo "
+      },
+      {
+        "id": "55",
+        "name": "MARTINEZ Lenny "
+      },
+      {
+        "id": "17",
+        "name": "VAN AERT Wout "
+      },
+      {
+        "id": "214",
+        "name": "DE LIE Arnaud "
+      },
+      {
+        "id": "18",
+        "name": "YATES Simon "
+      },
+      {
+        "id": "62",
+        "name": "ARENSMAN Thymen "
+      },
+      {
+        "id": "73",
+        "name": "MEEUS Jordi "
+      }
+    ],
+    "selectedRidersArray": [
+      {
+        "id": "1",
+        "name": "POGAČAR Tadej "
+      },
+      {
+        "id": "11",
+        "name": "VINGEGAARD Jonas "
+      },
+      {
+        "id": "21",
+        "name": "EVENEPOEL Remco "
+      },
+      {
+        "id": "2",
+        "name": "ALMEIDA João "
+      },
+      {
+        "id": "121",
+        "name": "O'CONNOR Ben "
+      },
+      {
+        "id": "72",
+        "name": "LIPOWITZ Florian "
+      },
+      {
+        "id": "141",
+        "name": "MAS Enric "
+      },
+      {
+        "id": "81",
+        "name": "SKJELMOSE Mattias "
+      },
+      {
+        "id": "61",
+        "name": "RODRÍGUEZ Carlos "
+      },
+      {
+        "id": "71",
+        "name": "ROGLIČ Primož "
+      },
+      {
+        "id": "105",
+        "name": "PHILIPSEN Jasper "
+      },
+      {
+        "id": "41",
+        "name": "GIRMAY Biniam "
+      },
+      {
+        "id": "24",
+        "name": "MERLIER Tim "
+      },
+      {
+        "id": "83",
+        "name": "MILAN Jonathan "
+      },
+      {
+        "id": "101",
+        "name": "VAN DER POEL Mathieu "
+      }
+    ],
+    "winners": {
+      "green": "GIRMAY Biniam ",
+      "polka": "POGAČAR Tadej ",
+      "yellow": "POGAČAR Tadej "
+    },
+    "yellow": {
+      "id": "1",
+      "name": "POGAČAR Tadej "
+    }
+  },
+  "-OULGpg0eDxEpo4ONwqz": {
+    "green": {
+      "id": "75",
+      "name": "PITHIE Laurence "
+    },
+    "playerInfo": {
+      "city": "HERKENBOSCH",
+      "mail": "rm.andringa@outlook.com",
+      "name": "Miriam Andringa",
+      "phone": "0655113553"
+    },
+    "polka": {
+      "id": "34",
+      "name": "HEALY Ben "
+    },
+    "reserveRidersArray": [
+      {
+        "id": "55",
+        "name": "MARTINEZ Lenny "
+      },
+      {
+        "id": "134",
+        "name": "DÉMARE Arnaud "
+      },
+      {
+        "id": "111",
+        "name": "ALAPHILIPPE Julian "
+      },
+      {
+        "id": "16",
+        "name": "KUSS Sepp "
+      },
+      {
+        "id": "56",
+        "name": "MOHORIČ Matej "
+      },
+      {
+        "id": "214",
+        "name": "DE LIE Arnaud "
+      },
+      {
+        "id": "2",
+        "name": "ALMEIDA João "
+      }
+    ],
+    "selectedRidersArray": [
+      {
+        "id": "61",
+        "name": "RODRÍGUEZ Carlos "
+      },
+      {
+        "id": "1",
+        "name": "POGAČAR Tadej "
+      },
+      {
+        "id": "105",
+        "name": "PHILIPSEN Jasper "
+      },
+      {
+        "id": "51",
+        "name": "BUITRAGO Santiago "
+      },
+      {
+        "id": "34",
+        "name": "HEALY Ben "
+      },
+      {
+        "id": "81",
+        "name": "SKJELMOSE Mattias "
+      },
+      {
+        "id": "75",
+        "name": "PITHIE Laurence "
+      },
+      {
+        "id": "35",
+        "name": "POWLESS Neilson "
+      },
+      {
+        "id": "14",
+        "name": "BENOOT Tiesj "
+      },
+      {
+        "id": "95",
+        "name": "MADOUAS Valentin "
+      },
+      {
+        "id": "206",
+        "name": "LUTSENKO Alexey "
+      },
+      {
+        "id": "11",
+        "name": "VINGEGAARD Jonas "
+      },
+      {
+        "id": "71",
+        "name": "ROGLIČ Primož "
+      },
+      {
+        "id": "101",
+        "name": "VAN DER POEL Mathieu "
+      },
+      {
+        "id": "21",
+        "name": "EVENEPOEL Remco "
+      }
+    ],
+    "winners": {
+      "green": "PITHIE Laurence ",
+      "polka": "HEALY Ben ",
+      "yellow": "RODRÍGUEZ Carlos "
+    },
+    "yellow": {
+      "id": "61",
+      "name": "RODRÍGUEZ Carlos "
+    }
+  },
+  "-OULjTs0i_PeInjp_m4N": {
+    "green": {
+      "id": "17",
+      "name": "VAN AERT Wout "
+    },
+    "playerInfo": {
+      "city": "Huizen",
+      "mail": "rebeknew@hotmail.com",
+      "name": "Rebekka Nieuwenhuizen",
+      "phone": "0623556998"
+    },
+    "polka": {
+      "id": "1",
+      "name": "POGAČAR Tadej "
+    },
+    "reserveRidersArray": [
+      {
+        "id": "15",
+        "name": "JORGENSON Matteo "
+      },
+      {
+        "id": "61",
+        "name": "RODRÍGUEZ Carlos "
+      },
+      {
+        "id": "17",
+        "name": "VAN AERT Wout "
+      },
+      {
+        "id": "131",
+        "name": "VAUQUELIN Kévin "
+      },
+      {
+        "id": "73",
+        "name": "MEEUS Jordi "
+      },
+      {
+        "id": "214",
+        "name": "DE LIE Arnaud "
+      },
+      {
+        "id": "124",
+        "name": "GROENEWEGEN Dylan "
+      }
+    ],
+    "selectedRidersArray": [
+      {
+        "id": "1",
+        "name": "POGAČAR Tadej "
+      },
+      {
+        "id": "11",
+        "name": "VINGEGAARD Jonas "
+      },
+      {
+        "id": "21",
+        "name": "EVENEPOEL Remco "
+      },
+      {
+        "id": "71",
+        "name": "ROGLIČ Primož "
+      },
+      {
+        "id": "101",
+        "name": "VAN DER POEL Mathieu "
+      },
+      {
+        "id": "2",
+        "name": "ALMEIDA João "
+      },
+      {
+        "id": "18",
+        "name": "YATES Simon "
+      },
+      {
+        "id": "24",
+        "name": "MERLIER Tim "
+      },
+      {
+        "id": "83",
+        "name": "MILAN Jonathan "
+      },
+      {
+        "id": "105",
+        "name": "PHILIPSEN Jasper "
+      },
+      {
+        "id": "52",
+        "name": "BAUHAUS Phil "
+      },
+      {
+        "id": "41",
+        "name": "GIRMAY Biniam "
+      },
+      {
+        "id": "55",
+        "name": "MARTINEZ Lenny "
+      },
+      {
+        "id": "141",
+        "name": "MAS Enric "
+      },
+      {
+        "id": "72",
+        "name": "LIPOWITZ Florian "
+      }
+    ],
+    "winners": {
+      "green": "VAN AERT Wout ",
+      "polka": "POGAČAR Tadej ",
+      "yellow": "POGAČAR Tadej "
+    },
+    "yellow": {
+      "id": "1",
+      "name": "POGAČAR Tadej "
+    }
+  },
+  "-OUOPR2uBRI56iqgR329": {
+    "green": {
+      "id": "17",
+      "name": "VAN AERT Wout "
+    },
+    "playerInfo": {
+      "city": "Franeker ",
+      "mail": "martjeswartje@gmail.com",
+      "name": "Martin Swart",
+      "phone": "0640235899"
+    },
+    "polka": {
+      "id": "1",
+      "name": "POGAČAR Tadej "
+    },
+    "reserveRidersArray": [
+      {
+        "id": "151",
+        "name": "GALL Felix "
+      },
+      {
+        "id": "211",
+        "name": "VAN EETVELT Lennert "
+      },
+      {
+        "id": "105",
+        "name": "PHILIPSEN Jasper "
+      },
+      {
+        "id": "201",
+        "name": "WOODS Michael "
+      },
+      {
+        "id": "221",
+        "name": "JOHANNESSEN Tobias Halland "
+      },
+      {
+        "id": "34",
+        "name": "HEALY Ben "
+      },
+      {
+        "id": "171",
+        "name": "TEJADA Harold "
+      }
+    ],
+    "selectedRidersArray": [
+      {
+        "id": "1",
+        "name": "POGAČAR Tadej "
+      },
+      {
+        "id": "11",
+        "name": "VINGEGAARD Jonas "
+      },
+      {
+        "id": "17",
+        "name": "VAN AERT Wout "
+      },
+      {
+        "id": "21",
+        "name": "EVENEPOEL Remco "
+      },
+      {
+        "id": "64",
+        "name": "GANNA Filippo "
+      },
+      {
+        "id": "71",
+        "name": "ROGLIČ Primož "
+      },
+      {
+        "id": "81",
+        "name": "SKJELMOSE Mattias "
+      },
+      {
+        "id": "101",
+        "name": "VAN DER POEL Mathieu "
+      },
+      {
+        "id": "121",
+        "name": "O'CONNOR Ben "
+      },
+      {
+        "id": "191",
+        "name": "ONLEY Oscar "
+      },
+      {
+        "id": "24",
+        "name": "MERLIER Tim "
+      },
+      {
+        "id": "83",
+        "name": "MILAN Jonathan "
+      },
+      {
+        "id": "41",
+        "name": "GIRMAY Biniam "
+      },
+      {
+        "id": "55",
+        "name": "MARTINEZ Lenny "
+      },
+      {
+        "id": "61",
+        "name": "RODRÍGUEZ Carlos "
+      }
+    ],
+    "winners": {
+      "green": "VAN AERT Wout ",
+      "polka": "POGAČAR Tadej ",
+      "yellow": "POGAČAR Tadej "
+    },
+    "yellow": {
+      "id": "1",
+      "name": "POGAČAR Tadej "
+    }
+  },
+  "-OUOaziK29Me32YS0Vss": {
+    "green": {
+      "id": "18",
+      "name": "YATES Simon "
+    },
+    "playerInfo": {
+      "city": "Herkenbosch ",
+      "mail": "delouw.wa@gmail.com",
+      "name": "Wim de Louw ",
+      "phone": "0657838547"
+    },
+    "polka": {
+      "id": "22",
+      "name": "CATTANEO Mattia "
+    },
+    "reserveRidersArray": [
+      {
+        "id": "134",
+        "name": "DÉMARE Arnaud "
+      },
+      {
+        "id": "137",
+        "name": "RODRÍGUEZ Cristián "
+      },
+      {
+        "id": "141",
+        "name": "MAS Enric "
+      },
+      {
+        "id": "164",
+        "name": "IZAGIRRE Ion "
+      },
+      {
+        "id": "173",
+        "name": "BOL Cees "
+      },
+      {
+        "id": "177",
+        "name": "TEUNISSEN Mike "
+      },
+      {
+        "id": "193",
+        "name": "BARGUIL Warren "
+      }
+    ],
+    "selectedRidersArray": [
+      {
+        "id": "1",
+        "name": "POGAČAR Tadej "
+      },
+      {
+        "id": "11",
+        "name": "VINGEGAARD Jonas "
+      },
+      {
+        "id": "14",
+        "name": "BENOOT Tiesj "
+      },
+      {
+        "id": "16",
+        "name": "KUSS Sepp "
+      },
+      {
+        "id": "21",
+        "name": "EVENEPOEL Remco "
+      },
+      {
+        "id": "22",
+        "name": "CATTANEO Mattia "
+      },
+      {
+        "id": "35",
+        "name": "POWLESS Neilson "
+      },
+      {
+        "id": "38",
+        "name": "VAN DEN BERG Marijn "
+      },
+      {
+        "id": "61",
+        "name": "RODRÍGUEZ Carlos "
+      },
+      {
+        "id": "71",
+        "name": "ROGLIČ Primož "
+      },
+      {
+        "id": "76",
+        "name": "VLASOV Aleksandr "
+      },
+      {
+        "id": "94",
+        "name": "GRÉGOIRE Romain "
+      },
+      {
+        "id": "101",
+        "name": "VAN DER POEL Mathieu "
+      },
+      {
+        "id": "105",
+        "name": "PHILIPSEN Jasper "
+      },
+      {
+        "id": "124",
+        "name": "GROENEWEGEN Dylan "
+      }
+    ],
+    "winners": {
+      "green": "YATES Simon ",
+      "polka": "CATTANEO Mattia ",
+      "yellow": "POGAČAR Tadej "
+    },
+    "yellow": {
+      "id": "1",
+      "name": "POGAČAR Tadej "
+    }
+  },
+  "-OUOkvpwyx4gzciP1zQ6": {
+    "green": {
+      "id": "124",
+      "name": "GROENEWEGEN Dylan "
+    },
+    "playerInfo": {
+      "city": "Aldeboarn",
+      "mail": "Drys@socrates45.dds.nl",
+      "name": "Drys Kramer",
+      "phone": ""
+    },
+    "polka": {
+      "id": "1",
+      "name": "POGAČAR Tadej "
+    },
+    "reserveRidersArray": [
+      {
+        "id": "61",
+        "name": "RODRÍGUEZ Carlos "
+      },
+      {
+        "id": "8",
+        "name": "YATES Adam "
+      },
+      {
+        "id": "18",
+        "name": "YATES Simon "
+      },
+      {
+        "id": "141",
+        "name": "MAS Enric "
+      },
+      {
+        "id": "3",
+        "name": "NARVÁEZ Jhonatan "
+      },
+      {
+        "id": "4",
+        "name": "POLITT Nils "
+      },
+      {
+        "id": "12",
+        "name": "CAMPENAERTS Victor "
+      }
+    ],
+    "selectedRidersArray": [
+      {
+        "id": "1",
+        "name": "POGAČAR Tadej "
+      },
+      {
+        "id": "11",
+        "name": "VINGEGAARD Jonas "
+      },
+      {
+        "id": "15",
+        "name": "JORGENSON Matteo "
+      },
+      {
+        "id": "222",
+        "name": "ABRAHAMSEN Jonas "
+      },
+      {
+        "id": "21",
+        "name": "EVENEPOEL Remco "
+      },
+      {
+        "id": "71",
+        "name": "ROGLIČ Primož "
+      },
+      {
+        "id": "72",
+        "name": "LIPOWITZ Florian "
+      },
+      {
+        "id": "41",
+        "name": "GIRMAY Biniam "
+      },
+      {
+        "id": "105",
+        "name": "PHILIPSEN Jasper "
+      },
+      {
+        "id": "17",
+        "name": "VAN AERT Wout "
+      },
+      {
+        "id": "124",
+        "name": "GROENEWEGEN Dylan "
+      },
+      {
+        "id": "83",
+        "name": "MILAN Jonathan "
+      },
+      {
+        "id": "214",
+        "name": "DE LIE Arnaud "
+      },
+      {
+        "id": "101",
+        "name": "VAN DER POEL Mathieu "
+      },
+      {
+        "id": "2",
+        "name": "ALMEIDA João "
+      }
+    ],
+    "winners": {
+      "green": "GROENEWEGEN Dylan ",
+      "polka": "POGAČAR Tadej ",
+      "yellow": "POGAČAR Tadej "
+    },
+    "yellow": {
+      "id": "1",
+      "name": "POGAČAR Tadej "
+    }
+  },
+  "-OUOqpiTyTyNRZrj4gVJ": {
+    "green": {
+      "id": "41",
+      "name": "GIRMAY Biniam "
+    },
+    "playerInfo": {
+      "city": "Aldeboarn",
+      "mail": "monique@socrates45.dds.nl",
+      "name": "Monique Plantinga",
+      "phone": "0630497830"
+    },
+    "polka": {
+      "id": "1",
+      "name": "POGAČAR Tadej "
+    },
+    "reserveRidersArray": [
+      {
+        "id": "24",
+        "name": "MERLIER Tim "
+      },
+      {
+        "id": "18",
+        "name": "YATES Simon "
+      },
+      {
+        "id": "198",
+        "name": "VAN DEN BROEK Frank "
+      },
+      {
+        "id": "16",
+        "name": "KUSS Sepp "
+      },
+      {
+        "id": "78",
+        "name": "VAN POPPEL Danny "
+      },
+      {
+        "id": "55",
+        "name": "MARTINEZ Lenny "
+      },
+      {
+        "id": "52",
+        "name": "BAUHAUS Phil "
+      }
+    ],
+    "selectedRidersArray": [
+      {
+        "id": "11",
+        "name": "VINGEGAARD Jonas "
+      },
+      {
+        "id": "15",
+        "name": "JORGENSON Matteo "
+      },
+      {
+        "id": "1",
+        "name": "POGAČAR Tadej "
+      },
+      {
+        "id": "2",
+        "name": "ALMEIDA João "
+      },
+      {
+        "id": "8",
+        "name": "YATES Adam "
+      },
+      {
+        "id": "83",
+        "name": "MILAN Jonathan "
+      },
+      {
+        "id": "101",
+        "name": "VAN DER POEL Mathieu "
+      },
+      {
+        "id": "21",
+        "name": "EVENEPOEL Remco "
+      },
+      {
+        "id": "105",
+        "name": "PHILIPSEN Jasper "
+      },
+      {
+        "id": "214",
+        "name": "DE LIE Arnaud "
+      },
+      {
+        "id": "41",
+        "name": "GIRMAY Biniam "
+      },
+      {
+        "id": "17",
+        "name": "VAN AERT Wout "
+      },
+      {
+        "id": "71",
+        "name": "ROGLIČ Primož "
+      },
+      {
+        "id": "61",
+        "name": "RODRÍGUEZ Carlos "
+      },
+      {
+        "id": "124",
+        "name": "GROENEWEGEN Dylan "
+      }
+    ],
+    "winners": {
+      "green": "GIRMAY Biniam ",
+      "polka": "POGAČAR Tadej ",
+      "yellow": "POGAČAR Tadej "
+    },
+    "yellow": {
+      "id": "1",
+      "name": "POGAČAR Tadej "
+    }
+  },
+  "-OUOu8nAj8QCDEB2rEht": {
+    "green": {
+      "id": "83",
+      "name": "MILAN Jonathan "
+    },
+    "playerInfo": {
+      "city": "Minnertsga",
+      "mail": "leonvansteinvoorn@icloud.com",
+      "name": "Leon van Steinvoorn",
+      "phone": "0612206505"
+    },
+    "polka": {
+      "id": "1",
+      "name": "POGAČAR Tadej "
+    },
+    "reserveRidersArray": [
+      {
+        "id": "17",
+        "name": "VAN AERT Wout "
+      },
+      {
+        "id": "56",
+        "name": "MOHORIČ Matej "
+      },
+      {
+        "id": "71",
+        "name": "ROGLIČ Primož "
+      },
+      {
+        "id": "84",
+        "name": "NYS Thibau "
+      },
+      {
+        "id": "111",
+        "name": "ALAPHILIPPE Julian "
+      },
+      {
+        "id": "41",
+        "name": "GIRMAY Biniam "
+      },
+      {
+        "id": "4",
+        "name": "POLITT Nils "
+      }
+    ],
+    "selectedRidersArray": [
+      {
+        "id": "1",
+        "name": "POGAČAR Tadej "
+      },
+      {
+        "id": "11",
+        "name": "VINGEGAARD Jonas "
+      },
+      {
+        "id": "21",
+        "name": "EVENEPOEL Remco "
+      },
+      {
+        "id": "24",
+        "name": "MERLIER Tim "
+      },
+      {
+        "id": "83",
+        "name": "MILAN Jonathan "
+      },
+      {
+        "id": "81",
+        "name": "SKJELMOSE Mattias "
+      },
+      {
+        "id": "101",
+        "name": "VAN DER POEL Mathieu "
+      },
+      {
+        "id": "105",
+        "name": "PHILIPSEN Jasper "
+      },
+      {
+        "id": "15",
+        "name": "JORGENSON Matteo "
+      },
+      {
+        "id": "18",
+        "name": "YATES Simon "
+      },
+      {
+        "id": "72",
+        "name": "LIPOWITZ Florian "
+      },
+      {
+        "id": "2",
+        "name": "ALMEIDA João "
+      },
+      {
+        "id": "32",
+        "name": "ASGREEN Kasper "
+      },
+      {
+        "id": "151",
+        "name": "GALL Felix "
+      },
+      {
+        "id": "121",
+        "name": "O'CONNOR Ben "
+      }
+    ],
+    "winners": {
+      "green": "MILAN Jonathan ",
+      "polka": "POGAČAR Tadej ",
+      "yellow": "VINGEGAARD Jonas "
+    },
+    "yellow": {
+      "id": "11",
+      "name": "VINGEGAARD Jonas "
+    }
+  },
+  "-OUOuwHr1j6XpOrDaKFW": {
+    "green": {
+      "id": "101",
+      "name": "VAN DER POEL Mathieu "
+    },
+    "playerInfo": {
+      "city": "Franeker ",
+      "mail": "martjeswartje@gmail.com",
+      "name": "Claudia Swart",
+      "phone": ""
+    },
+    "polka": {
+      "id": "151",
+      "name": "GALL Felix "
+    },
+    "reserveRidersArray": [
+      {
+        "id": "71",
+        "name": "ROGLIČ Primož "
+      },
+      {
+        "id": "121",
+        "name": "O'CONNOR Ben "
+      },
+      {
+        "id": "221",
+        "name": "JOHANNESSEN Tobias Halland "
+      },
+      {
+        "id": "62",
+        "name": "ARENSMAN Thymen "
+      },
+      {
+        "id": "112",
+        "name": "DAINESE Alberto "
+      },
+      {
+        "id": "55",
+        "name": "MARTINEZ Lenny "
+      },
+      {
+        "id": "31",
+        "name": "ALBANESE Vincenzo "
+      }
+    ],
+    "selectedRidersArray": [
+      {
+        "id": "11",
+        "name": "VINGEGAARD Jonas "
+      },
+      {
+        "id": "17",
+        "name": "VAN AERT Wout "
+      },
+      {
+        "id": "21",
+        "name": "EVENEPOEL Remco "
+      },
+      {
+        "id": "64",
+        "name": "GANNA Filippo "
+      },
+      {
+        "id": "73",
+        "name": "MEEUS Jordi "
+      },
+      {
+        "id": "81",
+        "name": "SKJELMOSE Mattias "
+      },
+      {
+        "id": "105",
+        "name": "PHILIPSEN Jasper "
+      },
+      {
+        "id": "101",
+        "name": "VAN DER POEL Mathieu "
+      },
+      {
+        "id": "141",
+        "name": "MAS Enric "
+      },
+      {
+        "id": "151",
+        "name": "GALL Felix "
+      },
+      {
+        "id": "201",
+        "name": "WOODS Michael "
+      },
+      {
+        "id": "228",
+        "name": "WÆRENSKJOLD Søren "
+      },
+      {
+        "id": "83",
+        "name": "MILAN Jonathan "
+      },
+      {
+        "id": "1",
+        "name": "POGAČAR Tadej "
+      },
+      {
+        "id": "41",
+        "name": "GIRMAY Biniam "
+      }
+    ],
+    "winners": {
+      "green": "VAN DER POEL Mathieu ",
+      "polka": "GALL Felix ",
+      "yellow": "POGAČAR Tadej "
+    },
+    "yellow": {
+      "id": "1",
+      "name": "POGAČAR Tadej "
+    }
+  }
+}
