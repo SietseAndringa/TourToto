@@ -111,6 +111,13 @@ header {
   align-items: center;
   order: 1;
   width: 60%;
+}
+
+.padding-right {
+  padding-right: 5px;
+}
+
+.padding-left {
   padding-left: 5px;
 }
 

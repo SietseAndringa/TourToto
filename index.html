@@ -25,7 +25,7 @@
 
         <h2>Welkom!</h2>
         <p>
-          Binnenkort barst de Tour de France weer los! <br />
+          De Tour de France is weer los! <br />
           De 112e editie start op zaterdag 5 juli in Lille en finisht op zondag
           de 27e in Parijs. De race gaat de eerste week via Normandië en
           Bretagne, waarna de Pyreneeën in de tweede week aan de beurt zijn. In
@@ -34,6 +34,7 @@
           3 weken lang genieten van al ‘t spectakel dat deze topsport heeft te
           bieden!
         </p>
+        <div hidden>
         <p>
           Om dit alles nog eens extra leuk te maken, wordt (traditiegetrouw) ook dit jaar
           de <strong>TourToto</strong> weer georganiseerd.
@@ -56,6 +57,7 @@
           We hopen natuurlijk weer op vele deelnemers en een spannende tour +
           toto!
         </p>
+        </div>
         
         <div class="button-container">
           <!-- <a href="inschrijven.html" class="button button-green">Lijst maken en insturen 📄</a> -->
@@ -81,17 +83,21 @@
 
         <!-- Lijst voorlopige deelnemers -->
 
-      <section id="deelnemers-container">
-        <h3>Deelnemers:</h3>
+      <section id="deelnemers-container" hidden>
+        <h3>Deelnemers tot nu toe:</h3>
         <ol id="deelnemers"></ol>
+        <p>
+          Heb je een lijst ingestuurd, maar staat je naam er niet tussen? Stuur dan even een berichtje naar: <a href="mailto:andringa.sietse@gmail.com">andringa.sietse@gmail.com</a> <br>Uiteraard ook voor andere vragen of opmerkingen.😃
+        </p> 
+
       </section>
 
       <!-- Lijstjes deelnemers -->
 
-        <section hidden>
+        <section>
           <h4 class="underline">Deelnemers + lijstjes, renners en uitvallers:</h4>
-
-          <a href="WieWelkeRenner.html"
+          <div class="button-container">
+            <a href="WieWelkeRenner.html"
           ><button class="button-green">
             Opgestelde renners per deelnemer
           </button></a
@@ -99,22 +105,18 @@
           <a href="InfoRenner.html"
           ><button class="button-green">Zoek een renner</button></a
           >
-          <button class="button-red" id="uitvallers-button">Uitvallers</button>
+          <a href="uitvallers.html">
+            <button class="button-red" id="uitvallers-button">Uitvallers</button>
+          </a>
+          
+        </div>
+          
         </section>
       
-        <p>
-          Heb je een lijst ingestuurd, maar staat je naam er niet tussen? Stuur dan even een berichtje naar: <a href="mailto:andringa.sietse@gmail.com">andringa.sietse@gmail.com</a> <br>Uiteraard ook voor andere vragen of opmerkingen.😃
-        </p> 
-
       <!-- Uitvallers sectie -->
 
-      <section id="uitvallers-container" class="hidden">
-        <h3 class="underline">Lijst met uitvallers:</h3>
-        <p>(Laatst bijgewerkt: 18 juli)</p>
-        <ul id="out-of-course"></ul>
-        <button id="close-button-3" class="button-blue">Terug</button>
-      </section>
-c
+      
     </main>
+    <footer style="margin-bottom: 1rem; margin-top: 1rem; text-align: center;" >Contact: andringa.sietse@gmail.com </footer>
   </body>
 </html>

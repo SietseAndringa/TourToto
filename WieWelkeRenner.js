@@ -13,6 +13,8 @@ function renderFullList(players) {
     );
   });
 
+  console.log(riders);
+
   const getLi = document.querySelectorAll("li");
 
   getLi.forEach((item) => {
@@ -28,7 +30,10 @@ function renderFullList(players) {
       );
       setClass(event.currentTarget.id);
       // compare pl array to rider array
-      const selectedRiders = filterTwoArrays(riders, selectedPlayer.riders);
+      const selectedRiders = filterTwoArrays(
+        Object.values(riders),
+        selectedPlayer.riders
+      );
       selectedRiders.sort((a, b) => (a.name > b.name ? 1 : -1));
       selectedRiders.forEach((rider) => {
         if (rider.inCourse === true) {

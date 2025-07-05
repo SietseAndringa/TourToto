@@ -191,3 +191,9 @@ input {
   display: flex;
   justify-content: center;
 }
+
+#uitvallers-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

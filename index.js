@@ -89,5 +89,5 @@ function toggleOutCourse() {
   uitvallersContainer.classList.toggle("hidden");
 }
 
-uitvallersButton.addEventListener("click", toggleOutCourse);
-closeButton3.addEventListener("click", toggleOutCourse);
+// uitvallersButton.addEventListener("click", toggleOutCourse);
+// closeButton3.addEventListener("click", toggleOutCourse);
