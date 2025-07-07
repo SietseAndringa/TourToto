@@ -563,7 +563,7 @@ const riders = [
     id: 101,
     name: "PHILIPSEN Jasper ",
     team: "Alpecin - Deceuninck",
-    inCourse: true,
+    inCourse: false,
     shirt: "shirts\\alpecin-deceuninck-2025-n2.png",
   },
   {
