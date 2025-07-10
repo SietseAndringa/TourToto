@@ -1039,7 +1039,7 @@ const riders = [
     id: 185,
     name: "JEANNIÈRE Emilien ",
     team: "Team TotalEnergies",
-    inCourse: true,
+    inCourse: false,
     shirt: "shirts\\totalenergies-2025.png",
   },
   {
@@ -1193,7 +1193,7 @@ const riders = [
     id: 213,
     name: "DE BUYST Jasper ",
     team: "Lotto",
-    inCourse: true,
+    inCourse: false,
     shirt: "shirts\\lotto-2025-n2.png",
   },
   {
