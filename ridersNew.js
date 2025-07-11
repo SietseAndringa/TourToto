@@ -122,7 +122,7 @@ const riders = [
     id: 22,
     name: "CATTANEO Mattia ",
     team: "Soudal Quick-Step",
-    inCourse: true,
+    inCourse: false,
     shirt: "shirts\\soudal-quick-step-2025.png",
   },
   {
@@ -304,7 +304,7 @@ const riders = [
     id: 54,
     name: "HAIG Jack ",
     team: "Bahrain - Victorious",
-    inCourse: true,
+    inCourse: false,
     shirt: "shirts\\bahrain-victorious-2025-n2.png",
   },
   {
