@@ -682,7 +682,7 @@ const riders = [
     id: 122,
     name: "DUNBAR Eddie ",
     team: "Team Jayco AlUla",
-    inCourse: true,
+    inCourse: false,
     shirt: "shirts\\team-jayco-alula-2025.png",
   },
   {
