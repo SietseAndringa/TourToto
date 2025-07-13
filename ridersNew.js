@@ -10,7 +10,7 @@ const riders = [
     id: 2,
     name: "ALMEIDA João ",
     team: "UAE Team Emirates",
-    inCourse: true,
+    inCourse: false,
     shirt: "shirts\\uae-team-emirates-xrg-2025.png",
   },
   {
