@@ -220,7 +220,7 @@ const riders = [
     id: 38,
     name: "VAN DEN BERG Marijn ",
     team: "EF Education - EasyPost",
-    inCourse: true,
+    inCourse: false,
     shirt: "shirts\\ef-education-easypost-2025.png",
   },
   {
@@ -1284,7 +1284,7 @@ const riders = [
     id: 228,
     name: "WÆRENSKJOLD Søren ",
     team: "Uno-X Mobility",
-    inCourse: true,
+    inCourse: false,
     shirt: "shirts\\uno-x-mobility-2025.png",
   },
 ];
