@@ -276,7 +276,7 @@ const riders = [
     id: 48,
     name: "ZIMMERMANN Georg ",
     team: "Intermarché - Wanty",
-    inCourse: true,
+    inCourse: false,
     shirt: "shirts\\intermarche-wanty-2025-n2.png",
   },
   {
