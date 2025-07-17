@@ -969,7 +969,7 @@ const riders = [
     id: 173,
     name: "BOL Cees ",
     team: "XDS Astana Team",
-    inCourse: true,
+    inCourse: false,
     shirt: "shirts\\xds-astana-team-2025.png",
   },
   {
