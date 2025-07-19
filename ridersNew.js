@@ -115,7 +115,7 @@ const riders = [
     id: 21,
     name: "EVENEPOEL Remco ",
     team: "Soudal Quick-Step",
-    inCourse: true,
+    inCourse: false,
     shirt: "shirts\\soudal-quick-step-2025.png",
   },
   {
@@ -479,7 +479,7 @@ const riders = [
     id: 85,
     name: "SKJELMOSE Mattias ",
     team: "Lidl - Trek",
-    inCourse: true,
+    inCourse: false,
     shirt: "shirts\\lidl-trek-2025-n2.png",
   },
   {
@@ -913,7 +913,7 @@ const riders = [
     id: 163,
     name: "COQUARD Bryan ",
     team: "Cofidis",
-    inCourse: true,
+    inCourse: false,
     shirt: "shirts\\cofidis-2025-n4.png",
   },
   {
@@ -1011,7 +1011,7 @@ const riders = [
     id: 181,
     name: "CRAS Steff ",
     team: "Team TotalEnergies",
-    inCourse: true,
+    inCourse: false,
     shirt: "shirts\\totalenergies-2025.png",
   },
   {
