@@ -598,7 +598,7 @@ const riders = [
     id: 106,
     name: "VAN DER POEL Mathieu ",
     team: "Alpecin - Deceuninck",
-    inCourse: true,
+    inCourse: false,
     shirt: "shirts\\alpecin-deceuninck-2025-n2.png",
   },
   {
@@ -1221,7 +1221,7 @@ const riders = [
     id: 217,
     name: "VAN EETVELT Lennert ",
     team: "Lotto",
-    inCourse: true,
+    inCourse: false,
     shirt: "shirts\\lotto-2025-n2.png",
   },
   {
