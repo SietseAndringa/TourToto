@@ -1,3 +1,5 @@
+// Deze data wordt gebruikt voor de site, na doorschuiven van rugnrs reserves.
+
 const players = [
   {
     name: "Age Anne Posthumus ",
