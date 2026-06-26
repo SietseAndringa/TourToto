@@ -376,7 +376,7 @@ const riders = [
     id: 66,
     name: "RODRÍGUEZ Carlos ",
     team: "INEOS Grenadiers",
-    inCourse: true,
+    inCourse: false,
     shirt: "shirts\\ineos-grenadiers-2025.png",
   },
   {
@@ -439,7 +439,7 @@ const riders = [
     id: 77,
     name: "VAN POPPEL Danny ",
     team: "Red Bull - BORA - hansgrohe",
-    inCourse: true,
+    inCourse: false,
     shirt: "shirts\\red-bull-bora-hansgrohe-2025.png",
   },
   {
@@ -523,7 +523,7 @@ const riders = [
     id: 93,
     name: "BARTHE Cyril ",
     team: "Groupama - FDJ",
-    inCourse: true,
+    inCourse: false,
     shirt: "shirts\\groupama-fdj-2025.png",
   },
   {
@@ -789,7 +789,7 @@ const riders = [
     id: 141,
     name: "MAS Enric ",
     team: "Movistar Team",
-    inCourse: true,
+    inCourse: false,
     shirt: "shirts\\movistar-team-2025-n2.png",
   },
   {
