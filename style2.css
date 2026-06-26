@@ -34,6 +34,12 @@ a {
   all: unset;
 }
 
+.link {
+  text-decoration: underline;
+  font-weight: 600;
+  cursor: pointer;
+}
+
 .player-joined {
   font-weight: 500;
 }
@@ -78,7 +84,9 @@ button,
   border-style: none;
   font-weight: bold;
   font-size: 0.9rem;
-  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.5), 0 2px 2px 0 rgba(0, 0, 0, 0.5);
+  box-shadow:
+    0 2px 2px 0 rgba(0, 0, 0, 0.5),
+    0 2px 2px 0 rgba(0, 0, 0, 0.5);
 }
 
 .button-green {
