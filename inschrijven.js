@@ -41,7 +41,7 @@ class FetchWrapper {
 }
 
 const API = new FetchWrapper(
-  "https://tourtoto-data-default-rtdb.firebaseio.com/players.json"
+  "https://tourtoto-data-default-rtdb.firebaseio.com/players.json",
 );
 
 // -------------------- Selectors --------------------
@@ -68,7 +68,7 @@ const yellowWinnerSelector = document.querySelector("#yellow");
 const greenWinnerSelector = document.querySelector("#green");
 const polkaWinnerSelector = document.querySelector("#polka");
 const winnersButtonContainer = document.querySelector(
-  "#winners-button-container"
+  "#winners-button-container",
 );
 const resetButtonWinners = document.querySelector("#reset-button-winners");
 const nextButtonTwo = document.querySelector("#next-button-two");
@@ -185,7 +185,7 @@ function showSelectableRiders(riders) {
   let ridersCopy = [...riders];
   // Filter/remove chosen rider from selection list
   let filteredRiderList = ridersCopy.filter(
-    (rider) => !chosenRidersIds.includes(rider.id)
+    (rider) => !chosenRidersIds.includes(rider.id),
   );
   // Render rider selection list
   filteredRiderList.forEach((rider) => {
@@ -193,14 +193,13 @@ function showSelectableRiders(riders) {
       "beforeend",
       `<li class="li-rider" id=${rider.id}>
         <div class="rider-name-wrapper">
-          <span>${rider.id}</span>
           <h4>${rider.name}</h4>
         </div>
         <div class="team-wrapper">
           <img src=${rider.shirt} height=25 width=25 alt="">
           <h5>${rider.team}</h5>
         </div>
-      </li>`
+      </li>`,
     );
   });
 
@@ -327,7 +326,7 @@ function showChosenRiders(riders, showReserve) {
         "beforeend",
         `<li class="li-rider-selected" id=${rider.id}>
         ${rider.name}
-        </li>`
+        </li>`,
       );
     });
   } else {
@@ -338,7 +337,7 @@ function showChosenRiders(riders, showReserve) {
         "beforeend",
         `<li class="li-rider-selected" id=${rider.id}>
         ${rider.name}
-        </li>`
+        </li>`,
       );
     });
   }
